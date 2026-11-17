@@ -1,0 +1,1001 @@
+Employee_ID,Employee_Name,Gender,Age,Department,Job_Role,Location,Hire_Date,Exit_Date,Employment_Status,Salary_INR,Performance_Rating,Tenure_Years,Recruitment_Source,Education,Attrition_Reason,Age_Group,Salary_Band
+EMP10001,Employee_1,Female,39,HR,Recruiter,Hyderabad,2019-07-23,,Active,965000,3.3,7.0,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10002,Employee_2,Male,55,Customer Service,Support Analyst,Hyderabad,2024-07-16,,Active,1035000,2.5,2.0,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10003,Employee_3,Male,32,Operations,Operations Manager,Bengaluru,2022-03-08,,Active,905000,2.8,4.4,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10004,Employee_4,Male,33,Sales,Account Manager,Pune,2023-12-12,,Active,880000,2.9,2.6,Employee Referral,MBA,N/A,25-35,8-12 LPA
+EMP10005,Employee_5,Male,36,IT,Data Analyst,Hyderabad,2021-04-27,,Active,1055000,4.3,5.3,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10006,Employee_6,Male,52,IT,Data Analyst,Pune,2017-10-12,,Active,1250000,4.2,8.8,Campus,MBA,N/A,46-55,12+ LPA
+EMP10007,Employee_7,Male,50,IT,BI Developer,Mumbai,2020-07-03,,Active,1350000,3.2,6.1,Naukri,MBA,N/A,46-55,12+ LPA
+EMP10008,Employee_8,Male,47,Operations,Operations Analyst,Chennai,2018-09-20,,Active,1020000,4.2,7.9,Agency,Bachelor's,N/A,46-55,8-12 LPA
+EMP10009,Employee_9,Female,39,Sales,Sales Manager,Chennai,2023-07-05,,Active,1160000,3.3,3.1,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10010,Employee_10,Male,53,Marketing,Digital Marketing Specialist,Pune,2023-01-31,,Active,1405000,3.2,3.5,Employee Referral,MBA,N/A,46-55,12+ LPA
+EMP10011,Employee_11,Male,43,IT,System Administrator,Pune,2024-12-06,2025-09-10,Exited,1115000,3.4,0.8,Employee Referral,Bachelor's,Work-Life Balance,36-45,8-12 LPA
+EMP10012,Employee_12,Female,59,Customer Service,Support Executive,Chennai,2019-08-31,,Active,1065000,3.6,6.9,Naukri,MBA,N/A,56+,8-12 LPA
+EMP10013,Employee_13,Female,38,Operations,Operations Executive,Hyderabad,2018-06-19,,Active,885000,3.0,8.1,Agency,Master's,N/A,36-45,8-12 LPA
+EMP10014,Employee_14,Male,44,IT,Data Analyst,Delhi,2025-12-13,,Active,1175000,3.4,0.6,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10015,Employee_15,Male,45,IT,System Administrator,Delhi,2020-08-11,,Active,1285000,3.9,6.0,LinkedIn,PhD,N/A,36-45,12+ LPA
+EMP10016,Employee_16,Male,29,IT,BI Developer,Bengaluru,2023-09-28,,Active,945000,3.5,2.8,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10017,Employee_17,Female,27,Finance,Finance Manager,Chennai,2020-05-04,,Active,865000,3.4,6.2,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10018,Employee_18,Non-Binary,26,Sales,Sales Manager,Chennai,2021-04-07,,Active,865000,3.7,5.3,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10019,Employee_19,Female,50,HR,HR Analyst,Bengaluru,2020-11-16,,Active,1060000,3.8,5.7,LinkedIn,MBA,N/A,46-55,8-12 LPA
+EMP10020,Employee_20,Female,49,Finance,Financial Analyst,Delhi,2019-02-10,2026-04-02,Exited,1325000,3.4,7.1,Naukri,Bachelor's,Relocation,46-55,12+ LPA
+EMP10021,Employee_21,Female,32,Sales,Sales Manager,Mumbai,2022-01-26,,Active,815000,3.1,4.5,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10022,Employee_22,Male,22,IT,BI Developer,Hyderabad,2025-09-09,,Active,1045000,3.5,0.9,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10023,Employee_23,Male,40,Finance,Accountant,Hyderabad,2021-04-28,,Active,1220000,2.4,5.3,Naukri,MBA,N/A,36-45,12+ LPA
+EMP10024,Employee_24,Female,30,HR,HR Manager,Mumbai,2018-11-03,,Active,785000,3.3,7.7,LinkedIn,Bachelor's,N/A,25-35,5-8 LPA
+EMP10025,Employee_25,Female,48,Sales,Account Manager,Mumbai,2020-10-04,,Active,1080000,1.8,5.8,Company Website,Bachelor's,N/A,46-55,8-12 LPA
+EMP10026,Employee_26,Male,55,Operations,Operations Analyst,Delhi,2016-10-14,,Active,1110000,2.3,9.8,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10027,Employee_27,Female,25,IT,BI Developer,Bengaluru,2022-02-14,,Active,985000,2.2,4.5,LinkedIn,Bachelor's,N/A,<25,8-12 LPA
+EMP10028,Employee_28,Male,57,Sales,Sales Manager,Mumbai,2024-02-09,,Active,1325000,4.1,2.5,Naukri,MBA,N/A,56+,12+ LPA
+EMP10029,Employee_29,Male,39,Sales,Sales Executive,Bengaluru,2024-10-31,,Active,1090000,3.4,1.7,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10030,Employee_30,Male,36,IT,Software Engineer,Pune,2020-05-09,,Active,1300000,2.6,6.2,LinkedIn,Bachelor's,N/A,36-45,12+ LPA
+EMP10031,Employee_31,Male,34,Sales,Sales Manager,Hyderabad,2023-07-04,,Active,845000,3.7,3.1,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10032,Employee_32,Female,40,IT,BI Developer,Delhi,2020-10-11,2024-11-08,Exited,1065000,4.0,4.1,LinkedIn,PhD,Better Opportunity,36-45,8-12 LPA
+EMP10033,Employee_33,Male,27,IT,Software Engineer,Hyderabad,2024-01-14,,Active,955000,3.7,2.5,Campus,Master's,N/A,25-35,8-12 LPA
+EMP10034,Employee_34,Female,33,Customer Service,Team Lead,Delhi,2022-11-23,,Active,800000,3.3,3.7,Company Website,MBA,N/A,25-35,5-8 LPA
+EMP10035,Employee_35,Female,58,Customer Service,Support Executive,Pune,2019-01-03,,Active,1065000,3.6,7.6,Company Website,Bachelor's,N/A,56+,8-12 LPA
+EMP10036,Employee_36,Female,38,Operations,Operations Manager,Hyderabad,2022-05-13,,Active,910000,4.0,4.2,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10037,Employee_37,Male,44,Finance,Financial Analyst,Pune,2018-07-28,,Active,1270000,3.1,8.0,Company Website,MBA,N/A,36-45,12+ LPA
+EMP10038,Employee_38,Male,47,IT,BI Developer,Delhi,2025-05-07,,Active,1155000,3.4,1.2,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10039,Employee_39,Male,50,Marketing,Digital Marketing Specialist,Mumbai,2019-12-19,2026-04-06,Exited,1205000,3.2,6.3,Employee Referral,Bachelor's,Work-Life Balance,46-55,12+ LPA
+EMP10040,Employee_40,Non-Binary,54,Sales,Account Manager,Hyderabad,2017-07-24,,Active,1225000,2.4,9.0,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10041,Employee_41,Female,48,IT,BI Developer,Pune,2025-10-22,,Active,1330000,4.0,0.8,Employee Referral,PhD,N/A,46-55,12+ LPA
+EMP10042,Employee_42,Male,46,Sales,Sales Executive,Chennai,2023-12-14,,Active,1195000,4.7,2.6,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10043,Employee_43,Female,31,IT,Software Engineer,Hyderabad,2018-09-27,,Active,1030000,2.8,7.8,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10044,Employee_44,Male,44,Customer Service,Team Lead,Hyderabad,2019-04-20,,Active,805000,4.0,7.3,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10045,Employee_45,Female,42,Finance,Accountant,Hyderabad,2022-11-10,,Active,1065000,2.9,3.7,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10046,Employee_46,Male,42,Marketing,Marketing Manager,Bengaluru,2018-07-06,,Active,1170000,3.5,8.1,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10047,Employee_47,Female,34,Finance,Finance Manager,Pune,2021-02-17,,Active,995000,4.4,5.4,Company Website,MBA,N/A,25-35,8-12 LPA
+EMP10048,Employee_48,Male,58,Sales,Sales Manager,Pune,2018-04-12,,Active,1425000,3.1,8.3,Campus,MBA,N/A,56+,12+ LPA
+EMP10049,Employee_49,Female,54,Sales,Account Manager,Hyderabad,2024-08-01,2026-02-07,Exited,1300000,3.4,1.5,Naukri,PhD,Work-Life Balance,46-55,12+ LPA
+EMP10050,Employee_50,Female,45,IT,Software Engineer,Mumbai,2023-11-26,,Active,1335000,2.2,2.7,Company Website,MBA,N/A,36-45,12+ LPA
+EMP10051,Employee_51,Female,32,Customer Service,Team Lead,Hyderabad,2025-02-13,,Active,645000,3.0,1.5,Employee Referral,Bachelor's,N/A,25-35,5-8 LPA
+EMP10052,Employee_52,Male,38,Operations,Operations Analyst,Bengaluru,2022-02-18,,Active,840000,2.2,4.4,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10053,Employee_53,Male,25,Customer Service,Support Analyst,Delhi,2020-08-05,,Active,625000,3.7,6.0,Employee Referral,Master's,N/A,<25,5-8 LPA
+EMP10054,Employee_54,Male,46,Customer Service,Team Lead,Bengaluru,2017-09-07,,Active,1035000,3.9,8.9,Employee Referral,Bachelor's,N/A,46-55,8-12 LPA
+EMP10055,Employee_55,Male,51,Sales,Account Manager,Mumbai,2017-02-09,,Active,1140000,3.3,9.5,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10056,Employee_56,Male,30,Customer Service,Support Executive,Hyderabad,2020-10-15,,Active,590000,3.6,5.8,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10057,Employee_57,Female,42,IT,Software Engineer,Pune,2024-03-09,,Active,1195000,3.2,2.4,Agency,Master's,N/A,36-45,8-12 LPA
+EMP10058,Employee_58,Female,41,IT,BI Developer,Chennai,2023-07-31,,Active,1340000,3.9,3.0,LinkedIn,Bachelor's,N/A,36-45,12+ LPA
+EMP10059,Employee_59,Male,40,IT,Data Analyst,Hyderabad,2016-04-02,2025-03-03,Exited,1225000,3.5,8.9,LinkedIn,Bachelor's,Compensation,36-45,12+ LPA
+EMP10060,Employee_60,Male,40,Finance,Finance Manager,Mumbai,2022-10-13,,Active,955000,2.1,3.8,Agency,PhD,N/A,36-45,8-12 LPA
+EMP10061,Employee_61,Male,33,HR,HR Manager,Pune,2017-10-15,,Active,840000,4.0,8.8,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10062,Employee_62,Female,58,Finance,Accountant,Bengaluru,2025-08-06,,Active,1375000,3.1,1.0,Employee Referral,MBA,N/A,56+,12+ LPA
+EMP10063,Employee_63,Male,38,Operations,Operations Manager,Delhi,2025-07-07,,Active,800000,2.6,1.1,Employee Referral,Master's,N/A,36-45,5-8 LPA
+EMP10064,Employee_64,Female,58,HR,Recruiter,Delhi,2017-03-09,,Active,1290000,3.1,9.4,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10065,Employee_65,Male,60,Finance,Finance Manager,Hyderabad,2019-02-09,,Active,1410000,2.2,7.5,Company Website,Bachelor's,N/A,56+,12+ LPA
+EMP10066,Employee_66,Non-Binary,49,Sales,Account Manager,Bengaluru,2017-01-09,,Active,1155000,2.6,9.6,Company Website,Master's,N/A,46-55,8-12 LPA
+EMP10067,Employee_67,Female,56,IT,System Administrator,Chennai,2024-07-27,,Active,1425000,3.5,2.0,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10068,Employee_68,Male,39,Operations,Operations Analyst,Chennai,2018-12-02,,Active,1060000,3.5,7.7,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10069,Employee_69,Female,35,IT,System Administrator,Mumbai,2016-07-25,,Active,1050000,3.6,10.0,Campus,Bachelor's,N/A,25-35,8-12 LPA
+EMP10070,Employee_70,Male,56,Customer Service,Support Executive,Delhi,2018-02-18,,Active,1115000,3.4,8.4,LinkedIn,Bachelor's,N/A,56+,8-12 LPA
+EMP10071,Employee_71,Female,28,Operations,Operations Executive,Bengaluru,2019-08-12,,Active,725000,2.9,7.0,Campus,Master's,N/A,25-35,5-8 LPA
+EMP10072,Employee_72,Male,34,IT,Data Analyst,Hyderabad,2019-02-15,,Active,1020000,3.4,7.5,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10073,Employee_73,Female,39,IT,Data Analyst,Pune,2017-06-15,,Active,1165000,3.1,9.1,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10074,Employee_74,Female,58,Operations,Operations Executive,Hyderabad,2025-01-06,,Active,1275000,2.3,1.6,Agency,PhD,N/A,56+,12+ LPA
+EMP10075,Employee_75,Female,34,Marketing,Marketing Analyst,Hyderabad,2022-01-22,,Active,905000,2.9,4.5,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10076,Employee_76,Female,57,Operations,Operations Analyst,Bengaluru,2023-05-14,,Active,1175000,4.0,3.2,Naukri,Bachelor's,N/A,56+,8-12 LPA
+EMP10077,Employee_77,Male,52,Operations,Operations Executive,Delhi,2024-11-01,,Active,1140000,4.4,1.7,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10078,Employee_78,Male,23,IT,System Administrator,Bengaluru,2024-11-29,,Active,935000,3.8,1.7,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10079,Employee_79,Male,37,HR,HR Executive,Pune,2016-03-30,,Active,905000,4.4,10.3,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10080,Employee_80,Male,30,IT,Software Engineer,Bengaluru,2019-01-22,,Active,1010000,3.5,7.5,Agency,Master's,N/A,25-35,8-12 LPA
+EMP10081,Employee_81,Female,30,Operations,Operations Manager,Mumbai,2016-01-13,,Active,780000,4.5,10.5,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10082,Employee_82,Male,59,Marketing,Marketing Manager,Hyderabad,2024-04-08,,Active,1385000,4.7,2.3,Employee Referral,Master's,N/A,56+,12+ LPA
+EMP10083,Employee_83,Female,32,Finance,Accountant,Delhi,2021-01-31,,Active,980000,2.3,5.5,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10084,Employee_84,Female,43,IT,Software Engineer,Chennai,2018-03-15,,Active,1210000,3.5,8.4,LinkedIn,MBA,N/A,36-45,12+ LPA
+EMP10085,Employee_85,Female,54,Finance,Accountant,Pune,2018-08-02,,Active,1245000,3.5,8.0,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10086,Employee_86,Male,57,Finance,Finance Manager,Chennai,2023-08-21,2024-10-07,Exited,1270000,3.1,1.1,Employee Referral,PhD,Relocation,56+,12+ LPA
+EMP10087,Employee_87,Female,44,Operations,Operations Manager,Hyderabad,2021-01-31,,Active,1110000,3.7,5.5,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10088,Employee_88,Female,55,Marketing,Marketing Analyst,Bengaluru,2025-08-10,,Active,1345000,3.4,1.0,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10089,Employee_89,Male,30,Customer Service,Support Executive,Chennai,2025-11-18,2026-02-24,Exited,700000,2.9,0.3,Campus,MBA,Relocation,25-35,5-8 LPA
+EMP10090,Employee_90,Female,45,Sales,Sales Manager,Mumbai,2020-05-29,2022-06-22,Exited,1185000,3.4,2.1,LinkedIn,PhD,Compensation,36-45,8-12 LPA
+EMP10091,Employee_91,Female,29,IT,System Administrator,Bengaluru,2024-01-02,,Active,960000,4.2,2.6,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10092,Employee_92,Male,28,Marketing,Marketing Manager,Hyderabad,2021-05-13,,Active,730000,3.5,5.2,LinkedIn,Bachelor's,N/A,25-35,5-8 LPA
+EMP10093,Employee_93,Male,57,Operations,Operations Manager,Chennai,2024-10-26,,Active,1160000,3.8,1.8,Naukri,Master's,N/A,56+,8-12 LPA
+EMP10094,Employee_94,Male,39,Sales,Account Manager,Pune,2023-05-31,,Active,910000,3.2,3.2,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10095,Employee_95,Male,24,Operations,Operations Executive,Chennai,2024-06-06,,Active,765000,3.7,2.1,Agency,Bachelor's,N/A,<25,5-8 LPA
+EMP10096,Employee_96,Male,49,Sales,Sales Executive,Chennai,2018-11-18,,Active,1140000,2.6,7.7,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10097,Employee_97,Male,27,Sales,Sales Manager,Delhi,2016-10-22,,Active,885000,3.1,9.8,Agency,MBA,N/A,25-35,8-12 LPA
+EMP10098,Employee_98,Male,42,HR,HR Analyst,Chennai,2024-04-21,2025-02-09,Exited,995000,3.3,0.8,Naukri,Bachelor's,Manager,36-45,8-12 LPA
+EMP10099,Employee_99,Male,49,IT,Data Analyst,Hyderabad,2018-07-14,,Active,1275000,2.6,8.0,Agency,PhD,N/A,46-55,12+ LPA
+EMP10100,Employee_100,Female,22,IT,Software Engineer,Pune,2017-10-01,,Active,750000,2.9,8.8,Employee Referral,PhD,N/A,<25,5-8 LPA
+EMP10101,Employee_101,Male,57,IT,Data Analyst,Hyderabad,2022-07-15,,Active,1425000,3.6,4.0,Agency,Master's,N/A,56+,12+ LPA
+EMP10102,Employee_102,Female,42,Marketing,Marketing Analyst,Mumbai,2017-09-19,,Active,1170000,3.5,8.9,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10103,Employee_103,Male,56,Finance,Finance Manager,Bengaluru,2022-10-22,,Active,1265000,3.9,3.8,Company Website,Master's,N/A,56+,12+ LPA
+EMP10104,Employee_104,Male,34,Sales,Sales Executive,Chennai,2019-03-13,,Active,1105000,3.0,7.4,Agency,Bachelor's,N/A,25-35,8-12 LPA
+EMP10105,Employee_105,Male,31,Customer Service,Support Analyst,Delhi,2018-07-30,,Active,585000,3.4,8.0,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10106,Employee_106,Male,31,Finance,Accountant,Pune,2018-04-09,,Active,980000,3.0,8.3,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10107,Employee_107,Male,34,HR,HR Analyst,Delhi,2020-11-05,,Active,855000,3.9,5.7,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10108,Employee_108,Female,58,Operations,Operations Manager,Delhi,2023-01-10,2024-11-16,Exited,1240000,4.2,1.9,Agency,MBA,Better Opportunity,56+,12+ LPA
+EMP10109,Employee_109,Male,59,Finance,Finance Manager,Delhi,2018-09-02,,Active,1300000,3.7,7.9,Employee Referral,Bachelor's,N/A,56+,12+ LPA
+EMP10110,Employee_110,Female,45,IT,System Administrator,Chennai,2024-07-13,,Active,1255000,4.1,2.0,Employee Referral,Bachelor's,N/A,36-45,12+ LPA
+EMP10111,Employee_111,Female,23,Finance,Financial Analyst,Pune,2018-08-12,,Active,665000,3.4,8.0,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10112,Employee_112,Male,43,IT,Data Analyst,Pune,2019-06-16,,Active,1075000,3.9,7.1,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10113,Employee_113,Male,38,Customer Service,Support Analyst,Delhi,2018-08-09,,Active,800000,3.4,8.0,Campus,Bachelor's,N/A,36-45,5-8 LPA
+EMP10114,Employee_114,Female,57,Operations,Operations Analyst,Bengaluru,2018-08-01,,Active,1195000,2.7,8.0,LinkedIn,PhD,N/A,56+,8-12 LPA
+EMP10115,Employee_115,Male,35,Marketing,Marketing Manager,Chennai,2022-01-11,,Active,1065000,3.6,4.6,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10116,Employee_116,Male,31,Operations,Operations Analyst,Chennai,2019-04-19,2024-09-13,Exited,870000,2.8,5.4,Agency,Master's,Relocation,25-35,8-12 LPA
+EMP10117,Employee_117,Non-Binary,56,Operations,Operations Executive,Hyderabad,2024-12-30,,Active,1385000,4.9,1.6,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10118,Employee_118,Male,46,IT,System Administrator,Chennai,2021-11-05,,Active,1220000,3.2,4.7,Company Website,PhD,N/A,46-55,12+ LPA
+EMP10119,Employee_119,Female,24,Customer Service,Support Analyst,Delhi,2025-02-09,,Active,550000,3.8,1.5,LinkedIn,PhD,N/A,<25,5-8 LPA
+EMP10120,Employee_120,Non-Binary,59,Sales,Sales Manager,Mumbai,2020-03-14,,Active,1130000,3.4,6.4,Employee Referral,PhD,N/A,56+,8-12 LPA
+EMP10121,Employee_121,Male,38,Operations,Operations Executive,Delhi,2019-01-01,,Active,885000,2.6,7.6,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10122,Employee_122,Male,33,Customer Service,Support Analyst,Pune,2024-02-26,,Active,705000,2.2,2.4,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10123,Employee_123,Male,45,Finance,Financial Analyst,Chennai,2016-06-27,,Active,1180000,3.9,10.1,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10124,Employee_124,Male,50,IT,Data Analyst,Chennai,2022-03-09,,Active,1350000,4.4,4.4,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10125,Employee_125,Male,46,Finance,Financial Analyst,Hyderabad,2021-01-02,,Active,1190000,2.9,5.6,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10126,Employee_126,Female,57,HR,HR Analyst,Mumbai,2019-06-11,,Active,1035000,2.3,7.1,LinkedIn,Master's,N/A,56+,8-12 LPA
+EMP10127,Employee_127,Male,47,Operations,Operations Executive,Chennai,2017-04-09,,Active,1095000,3.2,9.3,Company Website,Master's,N/A,46-55,8-12 LPA
+EMP10128,Employee_128,Male,59,Operations,Operations Manager,Hyderabad,2020-11-09,,Active,1330000,2.8,5.7,Naukri,MBA,N/A,56+,12+ LPA
+EMP10129,Employee_129,Non-Binary,22,IT,Data Analyst,Hyderabad,2025-01-07,,Active,970000,3.0,1.6,Company Website,Master's,N/A,<25,8-12 LPA
+EMP10130,Employee_130,Female,41,Sales,Account Manager,Mumbai,2023-05-02,,Active,1075000,3.8,3.2,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10131,Employee_131,Female,49,HR,HR Analyst,Delhi,2023-11-12,,Active,1125000,3.4,2.7,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10132,Employee_132,Male,37,Finance,Financial Analyst,Delhi,2025-02-17,,Active,1120000,2.9,1.4,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10133,Employee_133,Female,38,IT,System Administrator,Delhi,2019-05-15,,Active,925000,3.8,7.2,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10134,Employee_134,Male,49,Finance,Finance Manager,Bengaluru,2023-04-08,2025-02-24,Exited,1190000,3.8,1.9,LinkedIn,Bachelor's,Compensation,46-55,8-12 LPA
+EMP10135,Employee_135,Male,33,Customer Service,Support Analyst,Delhi,2018-06-03,,Active,630000,3.2,8.2,Company Website,MBA,N/A,25-35,5-8 LPA
+EMP10136,Employee_136,Male,48,Finance,Financial Analyst,Mumbai,2022-08-10,2024-05-10,Exited,1215000,3.5,1.7,Naukri,PhD,Other,46-55,12+ LPA
+EMP10137,Employee_137,Female,51,Sales,Sales Executive,Bengaluru,2022-05-12,2026-06-09,Exited,1025000,3.7,4.1,Campus,Bachelor's,Work-Life Balance,46-55,8-12 LPA
+EMP10138,Employee_138,Male,55,Marketing,Marketing Analyst,Delhi,2022-08-24,,Active,1395000,3.7,3.9,Campus,PhD,N/A,46-55,12+ LPA
+EMP10139,Employee_139,Male,58,HR,Recruiter,Bengaluru,2019-08-25,,Active,1275000,3.4,6.9,LinkedIn,Master's,N/A,56+,12+ LPA
+EMP10140,Employee_140,Male,27,Customer Service,Support Analyst,Mumbai,2020-07-12,2024-09-27,Exited,620000,4.3,4.2,Employee Referral,Master's,Career Change,25-35,5-8 LPA
+EMP10141,Employee_141,Male,28,Customer Service,Team Lead,Delhi,2025-02-21,,Active,630000,3.8,1.4,LinkedIn,Bachelor's,N/A,25-35,5-8 LPA
+EMP10142,Employee_142,Female,53,Finance,Finance Manager,Pune,2018-08-02,,Active,1420000,3.1,8.0,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10143,Employee_143,Female,53,Sales,Sales Manager,Chennai,2024-08-01,,Active,1090000,3.1,2.0,Company Website,PhD,N/A,46-55,8-12 LPA
+EMP10144,Employee_144,Female,46,Finance,Finance Manager,Mumbai,2023-10-28,,Active,1190000,3.0,2.8,Company Website,Bachelor's,N/A,46-55,8-12 LPA
+EMP10145,Employee_145,Male,54,Finance,Accountant,Hyderabad,2025-05-14,,Active,1430000,3.8,1.2,Employee Referral,PhD,N/A,46-55,12+ LPA
+EMP10146,Employee_146,Male,28,IT,Data Analyst,Hyderabad,2018-07-13,,Active,950000,3.0,8.0,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10147,Employee_147,Male,33,Sales,Sales Manager,Mumbai,2021-04-22,,Active,810000,3.1,5.3,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10148,Employee_148,Male,37,Sales,Sales Executive,Hyderabad,2017-05-08,,Active,915000,4.1,9.2,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10149,Employee_149,Male,37,IT,BI Developer,Mumbai,2020-03-26,2023-09-03,Exited,1085000,3.5,3.4,Company Website,Master's,Other,36-45,8-12 LPA
+EMP10150,Employee_150,Female,57,Finance,Finance Manager,Pune,2024-09-04,,Active,1315000,4.2,1.9,Employee Referral,PhD,N/A,56+,12+ LPA
+EMP10151,Employee_151,Male,34,Customer Service,Support Executive,Mumbai,2021-05-23,,Active,700000,3.9,5.2,Company Website,MBA,N/A,25-35,5-8 LPA
+EMP10152,Employee_152,Male,28,Finance,Finance Manager,Delhi,2018-12-30,,Active,995000,2.6,7.6,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10153,Employee_153,Male,57,IT,Software Engineer,Delhi,2022-08-08,,Active,1425000,3.3,4.0,Naukri,PhD,N/A,56+,12+ LPA
+EMP10154,Employee_154,Male,30,Sales,Sales Executive,Bengaluru,2023-03-02,,Active,800000,4.0,3.4,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10155,Employee_155,Male,53,Customer Service,Team Lead,Hyderabad,2020-12-30,2023-05-18,Exited,1100000,2.6,2.4,LinkedIn,PhD,Compensation,46-55,8-12 LPA
+EMP10156,Employee_156,Female,32,Finance,Financial Analyst,Chennai,2018-02-01,,Active,915000,3.7,8.5,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10157,Employee_157,Female,29,Marketing,Digital Marketing Specialist,Hyderabad,2022-05-12,,Active,685000,3.4,4.2,Campus,Bachelor's,N/A,25-35,5-8 LPA
+EMP10158,Employee_158,Female,54,Operations,Operations Executive,Mumbai,2016-02-19,,Active,1190000,2.3,10.4,Campus,MBA,N/A,46-55,8-12 LPA
+EMP10159,Employee_159,Male,44,Finance,Finance Manager,Chennai,2025-05-22,,Active,1135000,3.5,1.2,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10160,Employee_160,Male,46,Operations,Operations Executive,Chennai,2023-08-07,2024-08-26,Exited,1140000,2.9,1.1,Naukri,MBA,Career Change,46-55,8-12 LPA
+EMP10161,Employee_161,Male,29,HR,HR Analyst,Hyderabad,2018-06-24,,Active,690000,2.6,8.1,LinkedIn,Bachelor's,N/A,25-35,5-8 LPA
+EMP10162,Employee_162,Male,43,Marketing,Digital Marketing Specialist,Chennai,2024-02-23,,Active,1145000,3.4,2.4,Campus,Bachelor's,N/A,36-45,8-12 LPA
+EMP10163,Employee_163,Female,25,Marketing,Marketing Analyst,Chennai,2017-07-17,,Active,725000,2.1,9.0,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10164,Employee_164,Male,24,Sales,Sales Executive,Delhi,2018-02-21,2026-07-09,Exited,635000,3.0,8.4,Agency,Master's,Manager,<25,5-8 LPA
+EMP10165,Employee_165,Male,50,IT,Software Engineer,Pune,2022-12-07,,Active,1235000,5.0,3.6,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10166,Employee_166,Male,50,Operations,Operations Manager,Mumbai,2024-08-21,,Active,1300000,3.8,1.9,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10167,Employee_167,Male,55,Finance,Accountant,Hyderabad,2021-08-02,,Active,1330000,2.8,5.0,Agency,Bachelor's,N/A,46-55,12+ LPA
+EMP10168,Employee_168,Female,55,IT,Data Analyst,Delhi,2021-01-05,2024-04-22,Exited,1530000,4.3,3.3,LinkedIn,PhD,Better Opportunity,46-55,12+ LPA
+EMP10169,Employee_169,Male,49,IT,Data Analyst,Bengaluru,2017-08-06,,Active,1180000,2.8,9.0,Employee Referral,Bachelor's,N/A,46-55,8-12 LPA
+EMP10170,Employee_170,Male,34,Sales,Sales Manager,Chennai,2019-08-12,,Active,1155000,3.0,7.0,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10171,Employee_171,Male,36,Marketing,Marketing Manager,Chennai,2016-08-23,,Active,1010000,2.7,9.9,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10172,Employee_172,Male,44,IT,BI Developer,Hyderabad,2021-10-04,,Active,1225000,3.6,4.8,Naukri,Master's,N/A,36-45,12+ LPA
+EMP10173,Employee_173,Female,47,Sales,Sales Executive,Pune,2021-04-26,,Active,1120000,4.3,5.3,Company Website,PhD,N/A,46-55,8-12 LPA
+EMP10174,Employee_174,Female,25,Finance,Financial Analyst,Pune,2016-12-25,,Active,870000,2.8,9.6,Company Website,Bachelor's,N/A,<25,8-12 LPA
+EMP10175,Employee_175,Female,47,Marketing,Marketing Manager,Hyderabad,2021-04-14,2023-08-14,Exited,1190000,2.1,2.3,LinkedIn,Bachelor's,Career Change,46-55,8-12 LPA
+EMP10176,Employee_176,Female,30,IT,System Administrator,Hyderabad,2016-04-19,,Active,1010000,4.1,10.3,Agency,Master's,N/A,25-35,8-12 LPA
+EMP10177,Employee_177,Male,26,Marketing,Digital Marketing Specialist,Delhi,2016-07-10,2019-04-22,Exited,755000,4.4,2.8,LinkedIn,MBA,Manager,25-35,5-8 LPA
+EMP10178,Employee_178,Female,53,HR,HR Analyst,Hyderabad,2018-06-22,,Active,1260000,2.1,8.1,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10179,Employee_179,Male,41,Customer Service,Support Executive,Bengaluru,2019-01-21,,Active,685000,3.7,7.5,Naukri,PhD,N/A,36-45,5-8 LPA
+EMP10180,Employee_180,Male,32,IT,BI Developer,Delhi,2018-05-11,,Active,995000,3.5,8.2,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10181,Employee_181,Female,36,HR,HR Executive,Chennai,2023-02-28,,Active,755000,2.9,3.4,LinkedIn,Bachelor's,N/A,36-45,5-8 LPA
+EMP10182,Employee_182,Male,53,IT,BI Developer,Chennai,2018-12-19,2019-10-15,Exited,1460000,2.5,0.8,Agency,Bachelor's,Career Change,46-55,12+ LPA
+EMP10183,Employee_183,Female,49,Customer Service,Support Analyst,Chennai,2017-10-11,,Active,925000,4.0,8.8,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10184,Employee_184,Male,43,Operations,Operations Executive,Chennai,2016-02-08,,Active,855000,3.5,10.5,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10185,Employee_185,Female,38,Finance,Accountant,Mumbai,2025-11-20,,Active,965000,3.6,0.7,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10186,Employee_186,Female,47,Marketing,Marketing Analyst,Bengaluru,2024-07-17,,Active,1145000,3.0,2.0,Company Website,Bachelor's,N/A,46-55,8-12 LPA
+EMP10187,Employee_187,Female,28,Operations,Operations Manager,Delhi,2025-07-23,,Active,710000,2.9,1.0,Campus,PhD,N/A,25-35,5-8 LPA
+EMP10188,Employee_188,Female,47,Sales,Account Manager,Delhi,2017-09-28,,Active,1045000,1.8,8.8,Naukri,PhD,N/A,46-55,8-12 LPA
+EMP10189,Employee_189,Female,46,Sales,Sales Manager,Chennai,2018-11-02,2023-12-22,Exited,980000,3.3,5.1,LinkedIn,Master's,Work-Life Balance,46-55,8-12 LPA
+EMP10190,Employee_190,Male,31,Finance,Financial Analyst,Pune,2016-02-05,,Active,920000,4.3,10.5,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10191,Employee_191,Male,40,IT,System Administrator,Delhi,2021-11-18,,Active,1120000,2.8,4.7,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10192,Employee_192,Male,32,Customer Service,Support Executive,Bengaluru,2024-08-23,,Active,655000,2.4,1.9,LinkedIn,PhD,N/A,25-35,5-8 LPA
+EMP10193,Employee_193,Female,34,Customer Service,Team Lead,Hyderabad,2025-10-27,2026-03-06,Exited,700000,3.7,0.4,Naukri,Master's,Work-Life Balance,25-35,5-8 LPA
+EMP10194,Employee_194,Male,29,Marketing,Marketing Analyst,Bengaluru,2025-01-07,,Active,845000,3.8,1.6,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10195,Employee_195,Female,25,Finance,Financial Analyst,Chennai,2019-09-23,,Active,880000,3.0,6.9,Employee Referral,PhD,N/A,<25,8-12 LPA
+EMP10196,Employee_196,Male,52,HR,HR Manager,Chennai,2021-06-06,,Active,1205000,3.2,5.1,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10197,Employee_197,Male,49,Operations,Operations Executive,Mumbai,2016-06-14,,Active,1075000,3.6,10.1,Agency,PhD,N/A,46-55,8-12 LPA
+EMP10198,Employee_198,Female,32,Customer Service,Support Executive,Delhi,2022-08-27,,Active,680000,3.3,3.9,Agency,MBA,N/A,25-35,5-8 LPA
+EMP10199,Employee_199,Male,22,Customer Service,Support Analyst,Delhi,2021-02-22,2024-04-21,Exited,470000,4.1,3.2,Employee Referral,MBA,Work-Life Balance,<25,<5 LPA
+EMP10200,Employee_200,Male,59,Operations,Operations Manager,Delhi,2025-06-09,,Active,1140000,5.0,1.1,Naukri,Bachelor's,N/A,56+,8-12 LPA
+EMP10201,Employee_201,Male,45,Marketing,Marketing Analyst,Chennai,2025-09-12,,Active,1190000,2.3,0.9,Naukri,Bachelor's,N/A,36-45,8-12 LPA
+EMP10202,Employee_202,Female,52,IT,System Administrator,Delhi,2023-10-08,,Active,1470000,4.2,2.8,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10203,Employee_203,Female,47,IT,BI Developer,Pune,2016-01-31,,Active,1480000,3.5,10.5,Company Website,Bachelor's,N/A,46-55,12+ LPA
+EMP10204,Employee_204,Male,26,Customer Service,Team Lead,Pune,2025-06-08,,Active,775000,4.3,1.1,Naukri,Master's,N/A,25-35,5-8 LPA
+EMP10205,Employee_205,Male,41,Sales,Sales Executive,Hyderabad,2016-01-11,,Active,935000,3.9,10.6,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10206,Employee_206,Male,32,IT,Data Analyst,Delhi,2021-07-04,,Active,1000000,3.4,5.1,Agency,MBA,N/A,25-35,8-12 LPA
+EMP10207,Employee_207,Female,54,IT,BI Developer,Mumbai,2025-03-27,,Active,1650000,3.9,1.3,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10208,Employee_208,Female,59,Marketing,Marketing Analyst,Hyderabad,2021-11-13,,Active,1340000,3.1,4.7,Employee Referral,PhD,N/A,56+,12+ LPA
+EMP10209,Employee_209,Male,48,IT,Software Engineer,Chennai,2024-12-05,,Active,1340000,2.9,1.7,LinkedIn,Master's,N/A,46-55,12+ LPA
+EMP10210,Employee_210,Male,55,IT,System Administrator,Delhi,2022-11-05,2025-09-29,Exited,1305000,3.9,2.9,LinkedIn,Bachelor's,Work-Life Balance,46-55,12+ LPA
+EMP10211,Employee_211,Male,36,Sales,Sales Manager,Pune,2022-02-17,,Active,965000,2.9,4.4,Naukri,Bachelor's,N/A,36-45,8-12 LPA
+EMP10212,Employee_212,Female,53,Marketing,Marketing Analyst,Mumbai,2017-04-30,,Active,1410000,3.8,9.3,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10213,Employee_213,Female,42,Marketing,Marketing Manager,Hyderabad,2019-07-13,,Active,1155000,3.4,7.0,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10214,Employee_214,Male,26,Finance,Financial Analyst,Mumbai,2019-12-18,,Active,765000,1.9,6.6,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10215,Employee_215,Male,27,Marketing,Marketing Analyst,Delhi,2024-10-04,,Active,735000,3.0,1.8,Naukri,MBA,N/A,25-35,5-8 LPA
+EMP10216,Employee_216,Male,59,Finance,Finance Manager,Bengaluru,2022-04-04,,Active,1315000,3.6,4.3,Employee Referral,MBA,N/A,56+,12+ LPA
+EMP10217,Employee_217,Female,43,Finance,Finance Manager,Mumbai,2021-04-27,,Active,1050000,3.1,5.3,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10218,Employee_218,Male,39,Operations,Operations Executive,Mumbai,2025-05-19,,Active,755000,1.7,1.2,Naukri,Master's,N/A,36-45,5-8 LPA
+EMP10219,Employee_219,Female,35,Marketing,Marketing Manager,Chennai,2021-05-17,,Active,905000,4.3,5.2,Campus,MBA,N/A,25-35,8-12 LPA
+EMP10220,Employee_220,Female,31,Operations,Operations Executive,Pune,2024-09-18,,Active,920000,3.5,1.9,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10221,Employee_221,Male,34,Marketing,Marketing Manager,Delhi,2021-01-25,,Active,930000,3.7,5.5,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10222,Employee_222,Male,52,Sales,Sales Executive,Mumbai,2020-01-09,,Active,1365000,3.1,6.6,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10223,Employee_223,Male,51,IT,System Administrator,Delhi,2019-09-28,,Active,1470000,3.7,6.8,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10224,Employee_224,Female,24,HR,HR Executive,Pune,2024-10-21,,Active,635000,4.6,1.8,Campus,PhD,N/A,<25,5-8 LPA
+EMP10225,Employee_225,Female,51,Finance,Accountant,Chennai,2024-08-02,,Active,1205000,2.9,2.0,Employee Referral,MBA,N/A,46-55,12+ LPA
+EMP10226,Employee_226,Female,27,Finance,Accountant,Delhi,2025-01-31,,Active,775000,4.5,1.5,Campus,PhD,N/A,25-35,5-8 LPA
+EMP10227,Employee_227,Male,50,Customer Service,Support Executive,Pune,2023-08-14,,Active,850000,3.7,3.0,Employee Referral,PhD,N/A,46-55,8-12 LPA
+EMP10228,Employee_228,Male,29,HR,HR Manager,Pune,2018-09-17,2024-04-02,Exited,780000,2.8,5.5,LinkedIn,MBA,Compensation,25-35,5-8 LPA
+EMP10229,Employee_229,Female,54,Customer Service,Support Executive,Hyderabad,2025-10-01,,Active,815000,4.8,0.8,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10230,Employee_230,Female,38,Marketing,Marketing Analyst,Chennai,2018-04-04,,Active,1020000,3.7,8.3,Naukri,Bachelor's,N/A,36-45,8-12 LPA
+EMP10231,Employee_231,Male,32,Operations,Operations Analyst,Chennai,2020-01-02,,Active,805000,3.8,6.6,Company Website,Master's,N/A,25-35,8-12 LPA
+EMP10232,Employee_232,Female,34,Sales,Sales Executive,Delhi,2021-11-23,,Active,960000,3.2,4.7,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10233,Employee_233,Female,32,Sales,Sales Manager,Bengaluru,2022-02-06,2025-11-01,Exited,975000,2.9,3.7,Naukri,MBA,Work-Life Balance,25-35,8-12 LPA
+EMP10234,Employee_234,Female,52,Sales,Sales Executive,Hyderabad,2022-02-09,,Active,1260000,3.5,4.5,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10235,Employee_235,Female,49,IT,System Administrator,Chennai,2016-08-13,,Active,1485000,4.4,10.0,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10236,Employee_236,Female,27,Operations,Operations Executive,Pune,2018-02-15,,Active,765000,3.2,8.5,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10237,Employee_237,Female,37,Finance,Financial Analyst,Chennai,2023-10-08,,Active,950000,3.4,2.8,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10238,Employee_238,Male,25,IT,BI Developer,Bengaluru,2019-01-17,,Active,885000,4.3,7.5,LinkedIn,Master's,N/A,<25,8-12 LPA
+EMP10239,Employee_239,Male,56,Marketing,Digital Marketing Specialist,Mumbai,2017-11-18,,Active,1090000,3.2,8.7,LinkedIn,Master's,N/A,56+,8-12 LPA
+EMP10240,Employee_240,Female,47,IT,BI Developer,Mumbai,2017-06-13,2021-05-05,Exited,1220000,3.7,3.9,LinkedIn,MBA,Other,46-55,12+ LPA
+EMP10241,Employee_241,Male,33,Customer Service,Support Analyst,Chennai,2025-06-04,,Active,665000,4.0,1.2,LinkedIn,MBA,N/A,25-35,5-8 LPA
+EMP10242,Employee_242,Male,32,Customer Service,Team Lead,Chennai,2018-08-29,,Active,730000,3.3,7.9,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10243,Employee_243,Male,58,Customer Service,Support Executive,Hyderabad,2018-07-24,2024-09-27,Exited,1080000,3.6,6.2,Employee Referral,Bachelor's,Work-Life Balance,56+,8-12 LPA
+EMP10244,Employee_244,Male,46,HR,HR Analyst,Chennai,2019-11-23,,Active,970000,3.8,6.7,Naukri,PhD,N/A,46-55,8-12 LPA
+EMP10245,Employee_245,Female,39,IT,Data Analyst,Bengaluru,2021-11-23,2025-06-04,Exited,985000,3.1,3.5,Agency,Bachelor's,Other,36-45,8-12 LPA
+EMP10246,Employee_246,Female,40,Customer Service,Support Analyst,Chennai,2019-07-18,2021-11-08,Exited,770000,3.9,2.3,LinkedIn,MBA,Compensation,36-45,5-8 LPA
+EMP10247,Employee_247,Male,44,HR,HR Manager,Delhi,2021-06-21,,Active,1220000,3.0,5.1,Naukri,Master's,N/A,36-45,12+ LPA
+EMP10248,Employee_248,Male,59,Customer Service,Team Lead,Bengaluru,2023-11-18,,Active,1190000,3.0,2.7,Naukri,Master's,N/A,56+,8-12 LPA
+EMP10249,Employee_249,Male,39,Customer Service,Support Executive,Hyderabad,2020-03-06,,Active,890000,2.4,6.4,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10250,Employee_250,Female,47,Operations,Operations Manager,Delhi,2017-11-09,2023-08-13,Exited,990000,3.1,5.8,Campus,Master's,Work-Life Balance,46-55,8-12 LPA
+EMP10251,Employee_251,Female,27,Finance,Finance Manager,Delhi,2025-11-05,,Active,700000,2.9,0.7,LinkedIn,PhD,N/A,25-35,5-8 LPA
+EMP10252,Employee_252,Male,25,HR,HR Manager,Mumbai,2023-12-06,,Active,595000,3.1,2.7,Agency,Bachelor's,N/A,<25,5-8 LPA
+EMP10253,Employee_253,Female,50,Operations,Operations Analyst,Bengaluru,2024-06-30,2025-06-28,Exited,1115000,3.8,1.0,Campus,Bachelor's,Manager,46-55,8-12 LPA
+EMP10254,Employee_254,Female,55,Finance,Financial Analyst,Delhi,2022-09-06,2025-07-11,Exited,1165000,2.3,2.8,Employee Referral,Master's,Manager,46-55,8-12 LPA
+EMP10255,Employee_255,Female,38,IT,BI Developer,Hyderabad,2016-02-09,,Active,1045000,2.1,10.5,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10256,Employee_256,Female,37,Sales,Sales Executive,Mumbai,2023-05-31,,Active,915000,2.9,3.2,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10257,Employee_257,Male,23,Customer Service,Support Executive,Delhi,2025-01-02,2026-04-23,Exited,400000,3.7,1.3,Naukri,MBA,Relocation,<25,<5 LPA
+EMP10258,Employee_258,Female,55,Marketing,Marketing Analyst,Bengaluru,2024-04-16,,Active,1085000,3.6,2.3,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10259,Employee_259,Male,29,Sales,Sales Manager,Mumbai,2019-01-10,2024-01-31,Exited,850000,2.9,5.1,LinkedIn,Master's,Manager,25-35,8-12 LPA
+EMP10260,Employee_260,Female,34,IT,System Administrator,Bengaluru,2018-04-24,,Active,1070000,4.2,8.3,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10261,Employee_261,Female,29,Sales,Account Manager,Bengaluru,2020-10-09,,Active,895000,3.0,5.8,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10262,Employee_262,Female,51,Customer Service,Team Lead,Bengaluru,2022-02-26,,Active,920000,3.7,4.4,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10263,Employee_263,Female,53,IT,Software Engineer,Mumbai,2017-03-22,,Active,1475000,3.2,9.4,Campus,Bachelor's,N/A,46-55,12+ LPA
+EMP10264,Employee_264,Male,57,Sales,Account Manager,Delhi,2025-07-31,,Active,1470000,2.8,1.0,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10265,Employee_265,Male,51,Operations,Operations Analyst,Chennai,2024-07-06,,Active,1165000,3.0,2.1,Campus,MBA,N/A,46-55,8-12 LPA
+EMP10266,Employee_266,Non-Binary,22,Operations,Operations Manager,Pune,2019-05-19,,Active,565000,3.9,7.2,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10267,Employee_267,Female,60,Marketing,Marketing Analyst,Delhi,2022-10-27,,Active,1375000,3.6,3.8,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10268,Employee_268,Male,38,Marketing,Digital Marketing Specialist,Mumbai,2019-09-12,,Active,910000,4.0,6.9,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10269,Employee_269,Male,41,HR,HR Analyst,Pune,2023-09-09,,Active,920000,3.6,2.9,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10270,Employee_270,Male,45,Finance,Finance Manager,Pune,2016-08-14,,Active,1225000,2.4,10.0,LinkedIn,Master's,N/A,36-45,12+ LPA
+EMP10271,Employee_271,Female,43,Operations,Operations Manager,Pune,2016-02-17,,Active,985000,4.8,10.5,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10272,Employee_272,Female,50,Operations,Operations Manager,Chennai,2024-06-16,,Active,1230000,3.6,2.1,Campus,Bachelor's,N/A,46-55,12+ LPA
+EMP10273,Employee_273,Male,43,Operations,Operations Executive,Hyderabad,2024-02-07,,Active,960000,3.7,2.5,Naukri,Bachelor's,N/A,36-45,8-12 LPA
+EMP10274,Employee_274,Male,30,Customer Service,Support Analyst,Mumbai,2020-01-02,,Active,615000,3.2,6.6,Employee Referral,Bachelor's,N/A,25-35,5-8 LPA
+EMP10275,Employee_275,Female,58,Sales,Account Manager,Chennai,2021-01-04,,Active,1295000,4.1,5.6,Campus,MBA,N/A,56+,12+ LPA
+EMP10276,Employee_276,Female,31,Sales,Sales Executive,Chennai,2016-07-05,2018-02-28,Exited,760000,2.7,1.7,Company Website,PhD,Better Opportunity,25-35,5-8 LPA
+EMP10277,Employee_277,Male,57,Operations,Operations Executive,Hyderabad,2022-07-20,2024-11-28,Exited,1325000,3.8,2.4,Employee Referral,Master's,Better Opportunity,56+,12+ LPA
+EMP10278,Employee_278,Female,58,Marketing,Marketing Manager,Pune,2022-03-21,,Active,1525000,2.0,4.4,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10279,Employee_279,Male,49,Marketing,Marketing Manager,Hyderabad,2023-11-17,2025-05-06,Exited,1130000,3.8,1.5,Campus,PhD,Better Opportunity,46-55,8-12 LPA
+EMP10280,Employee_280,Male,49,Operations,Operations Executive,Hyderabad,2022-12-10,,Active,1045000,2.7,3.6,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10281,Employee_281,Female,42,Customer Service,Support Analyst,Chennai,2021-04-16,,Active,795000,3.6,5.3,LinkedIn,Bachelor's,N/A,36-45,5-8 LPA
+EMP10282,Employee_282,Female,45,Finance,Accountant,Mumbai,2024-01-03,,Active,1105000,4.3,2.6,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10283,Employee_283,Female,23,HR,HR Analyst,Bengaluru,2018-04-28,,Active,815000,3.9,8.3,Campus,Master's,N/A,<25,8-12 LPA
+EMP10284,Employee_284,Female,29,IT,Data Analyst,Hyderabad,2021-07-25,,Active,910000,4.2,5.0,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10285,Employee_285,Female,48,Sales,Account Manager,Hyderabad,2019-06-06,,Active,1115000,4.1,7.2,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10286,Employee_286,Male,43,IT,Software Engineer,Pune,2019-11-14,,Active,1115000,3.1,6.7,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10287,Employee_287,Male,58,Sales,Sales Executive,Pune,2018-09-05,,Active,1375000,3.8,7.9,Company Website,PhD,N/A,56+,12+ LPA
+EMP10288,Employee_288,Male,48,Sales,Sales Manager,Chennai,2020-05-31,,Active,1160000,2.3,6.2,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10289,Employee_289,Male,50,Finance,Finance Manager,Pune,2018-10-13,,Active,1150000,3.0,7.8,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10290,Employee_290,Female,24,Sales,Sales Executive,Delhi,2022-02-13,,Active,655000,4.3,4.5,Campus,PhD,N/A,<25,5-8 LPA
+EMP10291,Employee_291,Non-Binary,34,IT,Data Analyst,Hyderabad,2021-02-24,,Active,1205000,3.1,5.4,Naukri,MBA,N/A,25-35,12+ LPA
+EMP10292,Employee_292,Male,31,IT,Data Analyst,Pune,2016-09-26,,Active,1015000,2.2,9.8,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10293,Employee_293,Male,57,Operations,Operations Manager,Mumbai,2020-06-18,,Active,1260000,4.7,6.1,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10294,Employee_294,Female,30,HR,HR Executive,Delhi,2016-11-05,2022-01-21,Exited,805000,3.8,5.2,LinkedIn,Master's,Compensation,25-35,8-12 LPA
+EMP10295,Employee_295,Male,48,IT,System Administrator,Chennai,2024-10-08,,Active,1445000,3.9,1.8,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10296,Employee_296,Female,55,Sales,Sales Executive,Bengaluru,2021-08-05,,Active,1200000,2.8,5.0,Company Website,Bachelor's,N/A,46-55,8-12 LPA
+EMP10297,Employee_297,Female,22,Operations,Operations Manager,Hyderabad,2020-04-23,,Active,585000,3.6,6.3,LinkedIn,PhD,N/A,<25,5-8 LPA
+EMP10298,Employee_298,Female,53,IT,System Administrator,Hyderabad,2018-12-31,,Active,1395000,3.6,7.6,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10299,Employee_299,Male,46,Marketing,Digital Marketing Specialist,Mumbai,2023-12-02,,Active,955000,2.9,2.7,Naukri,PhD,N/A,46-55,8-12 LPA
+EMP10300,Employee_300,Male,50,IT,BI Developer,Bengaluru,2020-08-22,,Active,1270000,3.3,5.9,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10301,Employee_301,Female,28,IT,Software Engineer,Bengaluru,2024-12-02,,Active,1050000,2.4,1.7,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10302,Employee_302,Female,24,Sales,Account Manager,Chennai,2022-12-08,,Active,805000,3.2,3.6,LinkedIn,Bachelor's,N/A,<25,8-12 LPA
+EMP10303,Employee_303,Male,41,Sales,Sales Manager,Chennai,2024-12-06,,Active,1125000,4.0,1.6,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10304,Employee_304,Female,41,Marketing,Marketing Analyst,Delhi,2019-12-16,,Active,970000,2.9,6.6,Agency,Master's,N/A,36-45,8-12 LPA
+EMP10305,Employee_305,Male,51,Operations,Operations Executive,Hyderabad,2021-12-07,,Active,1100000,4.6,4.6,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10306,Employee_306,Female,56,Customer Service,Team Lead,Pune,2016-08-07,,Active,950000,2.5,10.0,Campus,Master's,N/A,56+,8-12 LPA
+EMP10307,Employee_307,Male,56,Sales,Account Manager,Chennai,2016-02-22,,Active,1395000,3.2,10.4,Campus,Master's,N/A,56+,12+ LPA
+EMP10308,Employee_308,Female,60,Finance,Accountant,Mumbai,2020-10-23,,Active,1535000,3.0,5.8,Company Website,PhD,N/A,56+,12+ LPA
+EMP10309,Employee_309,Male,48,Operations,Operations Analyst,Mumbai,2020-01-14,,Active,1185000,3.3,6.5,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10310,Employee_310,Male,47,Finance,Financial Analyst,Mumbai,2025-07-15,,Active,1345000,4.3,1.0,Campus,Bachelor's,N/A,46-55,12+ LPA
+EMP10311,Employee_311,Male,35,HR,HR Executive,Chennai,2020-07-24,,Active,920000,2.8,6.0,Company Website,MBA,N/A,25-35,8-12 LPA
+EMP10312,Employee_312,Male,38,IT,System Administrator,Chennai,2019-06-14,,Active,1280000,3.1,7.1,Employee Referral,MBA,N/A,36-45,12+ LPA
+EMP10313,Employee_313,Female,39,IT,System Administrator,Mumbai,2023-09-06,2026-05-21,Exited,1140000,3.8,2.7,Naukri,PhD,Manager,36-45,8-12 LPA
+EMP10314,Employee_314,Non-Binary,50,Customer Service,Support Analyst,Chennai,2023-08-17,,Active,845000,3.5,3.0,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10315,Employee_315,Male,41,Operations,Operations Manager,Pune,2017-12-20,2023-11-11,Exited,1040000,3.5,5.9,LinkedIn,MBA,Other,36-45,8-12 LPA
+EMP10316,Employee_316,Male,48,Marketing,Marketing Analyst,Pune,2017-02-09,,Active,985000,2.8,9.5,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10317,Employee_317,Female,39,HR,HR Manager,Delhi,2023-04-09,,Active,970000,3.4,3.3,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10318,Employee_318,Female,25,IT,Software Engineer,Hyderabad,2024-05-26,,Active,990000,4.1,2.2,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10319,Employee_319,Female,22,IT,Data Analyst,Pune,2022-10-05,,Active,880000,2.4,3.8,Employee Referral,MBA,N/A,<25,8-12 LPA
+EMP10320,Employee_320,Male,22,Finance,Accountant,Delhi,2023-07-22,,Active,955000,2.9,3.0,Naukri,Bachelor's,N/A,<25,8-12 LPA
+EMP10321,Employee_321,Male,47,Sales,Sales Manager,Bengaluru,2022-04-13,,Active,975000,2.2,4.3,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10322,Employee_322,Female,41,Marketing,Marketing Analyst,Hyderabad,2016-03-12,,Active,1015000,3.7,10.4,Agency,PhD,N/A,36-45,8-12 LPA
+EMP10323,Employee_323,Male,44,Marketing,Digital Marketing Specialist,Pune,2021-01-27,,Active,1080000,4.2,5.5,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10324,Employee_324,Female,31,Finance,Accountant,Bengaluru,2022-02-10,,Active,790000,3.3,4.5,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10325,Employee_325,Male,32,Customer Service,Team Lead,Delhi,2021-08-15,2023-03-03,Exited,575000,2.7,1.5,LinkedIn,MBA,Better Opportunity,25-35,5-8 LPA
+EMP10326,Employee_326,Female,26,Operations,Operations Executive,Pune,2019-05-14,,Active,615000,2.8,7.2,Employee Referral,PhD,N/A,25-35,5-8 LPA
+EMP10327,Employee_327,Male,22,Sales,Sales Manager,Pune,2020-04-16,,Active,600000,3.2,6.3,Company Website,PhD,N/A,<25,5-8 LPA
+EMP10328,Employee_328,Female,38,Sales,Sales Manager,Chennai,2024-02-01,,Active,980000,3.2,2.5,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10329,Employee_329,Male,43,HR,HR Manager,Bengaluru,2017-01-21,,Active,975000,4.0,9.5,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10330,Employee_330,Female,55,Finance,Finance Manager,Pune,2020-11-26,,Active,1375000,3.0,5.7,Agency,PhD,N/A,46-55,12+ LPA
+EMP10331,Employee_331,Male,50,HR,HR Analyst,Mumbai,2017-11-29,2021-06-05,Exited,1210000,3.7,3.5,LinkedIn,PhD,Relocation,46-55,12+ LPA
+EMP10332,Employee_332,Female,25,Operations,Operations Manager,Chennai,2024-08-13,,Active,725000,3.2,2.0,Employee Referral,Master's,N/A,<25,5-8 LPA
+EMP10333,Employee_333,Female,26,IT,BI Developer,Chennai,2019-04-15,,Active,885000,2.9,7.3,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10334,Employee_334,Female,32,IT,System Administrator,Pune,2018-04-06,,Active,1055000,3.2,8.3,Campus,PhD,N/A,25-35,8-12 LPA
+EMP10335,Employee_335,Female,42,IT,Data Analyst,Chennai,2020-12-27,,Active,1305000,3.6,5.6,Employee Referral,MBA,N/A,36-45,12+ LPA
+EMP10336,Employee_336,Female,56,IT,System Administrator,Hyderabad,2016-12-14,,Active,1500000,4.0,9.6,Company Website,Bachelor's,N/A,56+,12+ LPA
+EMP10337,Employee_337,Female,33,Operations,Operations Manager,Bengaluru,2019-07-02,,Active,985000,3.2,7.1,Campus,MBA,N/A,25-35,8-12 LPA
+EMP10338,Employee_338,Male,47,Marketing,Marketing Analyst,Hyderabad,2016-11-03,2025-03-20,Exited,1220000,2.6,8.4,LinkedIn,MBA,Compensation,46-55,12+ LPA
+EMP10339,Employee_339,Female,40,Sales,Account Manager,Delhi,2025-05-09,,Active,1180000,4.0,1.2,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10340,Employee_340,Male,28,IT,Data Analyst,Hyderabad,2019-02-24,2021-09-07,Exited,735000,2.8,2.5,Campus,Master's,Relocation,25-35,5-8 LPA
+EMP10341,Employee_341,Male,28,Sales,Sales Manager,Mumbai,2021-05-14,,Active,815000,3.6,5.2,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10342,Employee_342,Male,47,Sales,Account Manager,Chennai,2022-05-23,,Active,1120000,3.4,4.2,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10343,Employee_343,Male,26,IT,BI Developer,Chennai,2018-02-04,,Active,910000,3.3,8.5,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10344,Employee_344,Female,42,HR,HR Manager,Mumbai,2017-12-25,,Active,940000,3.1,8.6,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10345,Employee_345,Female,35,HR,Recruiter,Chennai,2023-09-10,2025-11-13,Exited,920000,3.8,2.2,LinkedIn,MBA,Manager,25-35,8-12 LPA
+EMP10346,Employee_346,Female,25,Sales,Account Manager,Hyderabad,2020-06-07,,Active,590000,1.1,6.1,Naukri,Bachelor's,N/A,<25,5-8 LPA
+EMP10347,Employee_347,Male,44,Marketing,Digital Marketing Specialist,Delhi,2025-09-28,,Active,1110000,4.1,0.8,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10348,Employee_348,Male,41,IT,BI Developer,Pune,2017-01-17,,Active,1125000,2.8,9.5,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10349,Employee_349,Male,36,HR,HR Executive,Mumbai,2025-07-09,,Active,855000,3.7,1.1,Campus,Master's,N/A,36-45,8-12 LPA
+EMP10350,Employee_350,Male,50,Marketing,Digital Marketing Specialist,Hyderabad,2022-09-01,,Active,1225000,3.6,3.9,Agency,Master's,N/A,46-55,12+ LPA
+EMP10351,Employee_351,Male,29,Sales,Sales Manager,Hyderabad,2017-06-08,,Active,835000,4.2,9.1,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10352,Employee_352,Male,40,Operations,Operations Executive,Hyderabad,2025-12-07,,Active,1040000,3.5,0.6,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10353,Employee_353,Male,60,Marketing,Marketing Analyst,Pune,2023-05-10,,Active,1275000,2.9,3.2,Agency,Master's,N/A,56+,12+ LPA
+EMP10354,Employee_354,Female,49,IT,System Administrator,Bengaluru,2024-03-04,,Active,1330000,2.4,2.4,Employee Referral,Bachelor's,N/A,46-55,12+ LPA
+EMP10355,Employee_355,Female,48,IT,Data Analyst,Chennai,2016-10-02,,Active,1400000,3.2,9.8,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10356,Employee_356,Non-Binary,25,Marketing,Marketing Manager,Chennai,2022-12-22,,Active,765000,2.1,3.6,Agency,Bachelor's,N/A,<25,5-8 LPA
+EMP10357,Employee_357,Female,36,IT,Data Analyst,Delhi,2023-07-27,2025-04-07,Exited,1140000,3.0,1.7,Company Website,Master's,Work-Life Balance,36-45,8-12 LPA
+EMP10358,Employee_358,Female,56,Sales,Sales Executive,Bengaluru,2016-12-02,,Active,1410000,3.2,9.7,Company Website,PhD,N/A,56+,12+ LPA
+EMP10359,Employee_359,Male,58,Customer Service,Team Lead,Chennai,2021-05-27,,Active,1110000,3.0,5.2,Company Website,Master's,N/A,56+,8-12 LPA
+EMP10360,Employee_360,Female,22,Sales,Account Manager,Delhi,2024-02-27,,Active,645000,3.4,2.4,LinkedIn,Master's,N/A,<25,5-8 LPA
+EMP10361,Employee_361,Female,24,HR,Recruiter,Delhi,2017-04-25,,Active,740000,3.2,9.3,LinkedIn,Bachelor's,N/A,<25,5-8 LPA
+EMP10362,Employee_362,Male,45,Marketing,Marketing Analyst,Hyderabad,2018-06-29,,Active,1080000,3.2,8.1,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10363,Employee_363,Male,48,Sales,Sales Executive,Mumbai,2021-06-19,,Active,1270000,1.8,5.1,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10364,Employee_364,Female,57,Sales,Account Manager,Hyderabad,2025-02-26,,Active,1365000,2.6,1.4,Naukri,Master's,N/A,56+,12+ LPA
+EMP10365,Employee_365,Male,55,Customer Service,Support Analyst,Pune,2024-07-26,,Active,1040000,3.8,2.0,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10366,Employee_366,Female,50,HR,Recruiter,Chennai,2019-09-13,2022-01-26,Exited,1185000,3.9,2.4,Company Website,PhD,Relocation,46-55,8-12 LPA
+EMP10367,Employee_367,Female,45,Customer Service,Support Analyst,Delhi,2021-07-26,,Active,835000,2.2,5.0,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10368,Employee_368,Male,45,Customer Service,Support Analyst,Mumbai,2020-10-20,,Active,1000000,2.9,5.8,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10369,Employee_369,Male,25,IT,BI Developer,Chennai,2016-04-18,,Active,780000,4.1,10.3,Campus,MBA,N/A,<25,5-8 LPA
+EMP10370,Employee_370,Male,24,IT,BI Developer,Delhi,2025-03-04,,Active,995000,2.9,1.4,Company Website,PhD,N/A,<25,8-12 LPA
+EMP10371,Employee_371,Male,55,IT,BI Developer,Delhi,2016-11-23,2019-03-12,Exited,1475000,3.3,2.3,LinkedIn,Bachelor's,Work-Life Balance,46-55,12+ LPA
+EMP10372,Employee_372,Male,44,IT,Data Analyst,Hyderabad,2020-12-04,,Active,1230000,4.3,5.7,Naukri,Master's,N/A,36-45,12+ LPA
+EMP10373,Employee_373,Female,44,IT,Software Engineer,Mumbai,2016-11-10,,Active,1315000,3.2,9.7,Naukri,Master's,N/A,36-45,12+ LPA
+EMP10374,Employee_374,Male,26,Marketing,Marketing Analyst,Mumbai,2025-09-15,,Active,800000,3.1,0.9,LinkedIn,MBA,N/A,25-35,5-8 LPA
+EMP10375,Employee_375,Male,52,IT,Data Analyst,Chennai,2019-02-08,,Active,1510000,3.3,7.5,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10376,Employee_376,Male,27,Finance,Finance Manager,Delhi,2023-07-09,,Active,960000,4.6,3.1,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10377,Employee_377,Female,58,Operations,Operations Analyst,Mumbai,2018-02-19,,Active,1300000,3.7,8.4,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10378,Employee_378,Male,31,IT,BI Developer,Mumbai,2025-01-13,,Active,935000,3.4,1.5,Agency,Master's,N/A,25-35,8-12 LPA
+EMP10379,Employee_379,Male,28,Operations,Operations Executive,Chennai,2020-02-29,,Active,680000,3.1,6.4,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10380,Employee_380,Female,60,Finance,Finance Manager,Hyderabad,2016-06-04,,Active,1430000,3.8,10.2,Company Website,PhD,N/A,56+,12+ LPA
+EMP10381,Employee_381,Female,59,IT,Data Analyst,Bengaluru,2020-02-05,,Active,1615000,3.8,6.5,Company Website,PhD,N/A,56+,12+ LPA
+EMP10382,Employee_382,Male,42,Marketing,Marketing Analyst,Pune,2020-09-20,,Active,1000000,2.7,5.9,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10383,Employee_383,Female,41,Marketing,Marketing Manager,Bengaluru,2025-02-25,,Active,990000,3.8,1.4,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10384,Employee_384,Male,24,Operations,Operations Manager,Mumbai,2018-06-05,,Active,820000,3.3,8.2,Employee Referral,MBA,N/A,<25,8-12 LPA
+EMP10385,Employee_385,Male,43,Operations,Operations Analyst,Delhi,2024-05-31,,Active,990000,3.4,2.2,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10386,Employee_386,Male,25,Operations,Operations Executive,Pune,2023-09-06,,Active,615000,2.8,2.9,Company Website,Bachelor's,N/A,<25,5-8 LPA
+EMP10387,Employee_387,Male,49,Finance,Accountant,Pune,2017-12-22,,Active,1305000,3.1,8.6,Naukri,MBA,N/A,46-55,12+ LPA
+EMP10388,Employee_388,Female,33,IT,BI Developer,Delhi,2025-10-22,,Active,1045000,2.7,0.8,Company Website,MBA,N/A,25-35,8-12 LPA
+EMP10389,Employee_389,Male,59,Operations,Operations Executive,Pune,2018-07-01,,Active,1160000,2.7,8.1,LinkedIn,Master's,N/A,56+,8-12 LPA
+EMP10390,Employee_390,Male,57,Operations,Operations Analyst,Delhi,2025-03-11,,Active,1345000,3.6,1.4,Campus,Bachelor's,N/A,56+,12+ LPA
+EMP10391,Employee_391,Female,26,Customer Service,Team Lead,Pune,2018-05-20,2022-12-13,Exited,505000,3.2,4.6,Naukri,MBA,Compensation,25-35,5-8 LPA
+EMP10392,Employee_392,Female,34,HR,HR Manager,Chennai,2016-01-13,2023-10-15,Exited,870000,2.6,7.8,Employee Referral,PhD,Relocation,25-35,8-12 LPA
+EMP10393,Employee_393,Male,44,HR,HR Analyst,Chennai,2023-04-09,2024-03-30,Exited,1040000,4.8,1.0,LinkedIn,PhD,Relocation,36-45,8-12 LPA
+EMP10394,Employee_394,Female,51,Operations,Operations Analyst,Bengaluru,2017-05-12,,Active,1165000,2.7,9.2,Company Website,Master's,N/A,46-55,8-12 LPA
+EMP10395,Employee_395,Male,58,HR,HR Manager,Pune,2020-10-22,,Active,1100000,4.1,5.8,Company Website,Master's,N/A,56+,8-12 LPA
+EMP10396,Employee_396,Female,46,Customer Service,Support Analyst,Hyderabad,2022-04-04,,Active,900000,2.4,4.3,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10397,Employee_397,Female,48,Operations,Operations Manager,Delhi,2019-01-22,,Active,1190000,3.7,7.5,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10398,Employee_398,Female,35,HR,HR Manager,Pune,2025-05-02,,Active,1000000,3.2,1.2,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10399,Employee_399,Male,57,Operations,Operations Manager,Chennai,2023-09-29,,Active,1160000,3.0,2.8,Campus,Bachelor's,N/A,56+,8-12 LPA
+EMP10400,Employee_400,Male,60,Operations,Operations Executive,Chennai,2019-04-09,,Active,1385000,3.5,7.3,Employee Referral,Master's,N/A,56+,12+ LPA
+EMP10401,Employee_401,Male,37,IT,Data Analyst,Delhi,2021-06-27,2025-06-27,Exited,1050000,3.4,4.0,Campus,Master's,Career Change,36-45,8-12 LPA
+EMP10402,Employee_402,Male,43,Customer Service,Support Executive,Hyderabad,2023-04-07,,Active,845000,2.9,3.3,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10403,Employee_403,Male,42,Sales,Sales Executive,Pune,2023-06-01,,Active,1030000,2.8,3.2,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10404,Employee_404,Female,42,Operations,Operations Analyst,Pune,2020-07-05,,Active,990000,2.4,6.1,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10405,Employee_405,Male,29,Finance,Finance Manager,Hyderabad,2020-05-09,2024-09-16,Exited,965000,3.6,4.4,Naukri,Bachelor's,Compensation,25-35,8-12 LPA
+EMP10406,Employee_406,Male,37,Customer Service,Team Lead,Hyderabad,2023-12-06,,Active,795000,2.6,2.7,Campus,PhD,N/A,36-45,5-8 LPA
+EMP10407,Employee_407,Female,52,HR,HR Executive,Hyderabad,2024-03-02,,Active,1180000,3.4,2.4,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10408,Employee_408,Male,31,IT,Software Engineer,Chennai,2020-01-30,2021-07-15,Exited,1100000,3.8,1.5,Employee Referral,MBA,Compensation,25-35,8-12 LPA
+EMP10409,Employee_409,Female,53,Customer Service,Team Lead,Delhi,2023-04-29,,Active,985000,3.5,3.3,Campus,Bachelor's,N/A,46-55,8-12 LPA
+EMP10410,Employee_410,Male,55,IT,BI Developer,Hyderabad,2016-05-22,,Active,1435000,2.9,10.2,Naukri,MBA,N/A,46-55,12+ LPA
+EMP10411,Employee_411,Male,30,Finance,Financial Analyst,Delhi,2019-05-09,,Active,985000,4.0,7.2,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10412,Employee_412,Male,38,Customer Service,Support Executive,Bengaluru,2024-11-25,,Active,835000,3.1,1.7,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10413,Employee_413,Male,32,Customer Service,Support Analyst,Pune,2023-07-24,,Active,640000,2.5,3.0,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10414,Employee_414,Female,53,Sales,Account Manager,Pune,2025-05-28,,Active,1120000,3.2,1.2,Company Website,Master's,N/A,46-55,8-12 LPA
+EMP10415,Employee_415,Male,31,Marketing,Digital Marketing Specialist,Mumbai,2022-12-01,2023-04-18,Exited,870000,3.8,0.4,LinkedIn,Master's,Better Opportunity,25-35,8-12 LPA
+EMP10416,Employee_416,Male,43,Sales,Account Manager,Bengaluru,2017-07-18,2024-12-24,Exited,935000,3.0,7.4,Naukri,PhD,Manager,36-45,8-12 LPA
+EMP10417,Employee_417,Male,38,Finance,Financial Analyst,Hyderabad,2022-11-23,,Active,1020000,4.0,3.7,Campus,PhD,N/A,36-45,8-12 LPA
+EMP10418,Employee_418,Male,25,Finance,Accountant,Hyderabad,2022-08-28,,Active,910000,2.9,3.9,Naukri,MBA,N/A,<25,8-12 LPA
+EMP10419,Employee_419,Female,46,Marketing,Digital Marketing Specialist,Chennai,2020-09-11,,Active,1165000,3.0,5.9,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10420,Employee_420,Male,42,Operations,Operations Manager,Bengaluru,2024-02-21,,Active,800000,2.7,2.4,Agency,PhD,N/A,36-45,5-8 LPA
+EMP10421,Employee_421,Female,58,Operations,Operations Analyst,Hyderabad,2017-02-20,,Active,1285000,3.8,9.4,Naukri,Master's,N/A,56+,12+ LPA
+EMP10422,Employee_422,Female,59,Operations,Operations Executive,Mumbai,2021-01-22,,Active,1255000,3.4,5.5,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10423,Employee_423,Female,22,IT,System Administrator,Delhi,2022-06-13,,Active,735000,2.8,4.1,Company Website,PhD,N/A,<25,5-8 LPA
+EMP10424,Employee_424,Female,46,Sales,Sales Executive,Pune,2023-05-20,,Active,1160000,3.1,3.2,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10425,Employee_425,Male,57,IT,Software Engineer,Bengaluru,2020-09-13,2022-03-11,Exited,1435000,1.4,1.5,LinkedIn,Master's,Relocation,56+,12+ LPA
+EMP10426,Employee_426,Male,38,Sales,Sales Executive,Pune,2019-10-22,,Active,945000,3.9,6.8,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10427,Employee_427,Male,45,Sales,Account Manager,Delhi,2024-05-30,,Active,1125000,3.3,2.2,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10428,Employee_428,Female,23,Customer Service,Support Analyst,Bengaluru,2018-12-03,,Active,460000,1.8,7.7,Campus,Master's,N/A,<25,<5 LPA
+EMP10429,Employee_429,Non-Binary,36,HR,HR Executive,Delhi,2023-08-18,,Active,910000,2.5,3.0,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10430,Employee_430,Male,53,IT,Data Analyst,Hyderabad,2021-02-09,,Active,1355000,3.1,5.5,LinkedIn,Master's,N/A,46-55,12+ LPA
+EMP10431,Employee_431,Female,60,IT,Data Analyst,Hyderabad,2019-01-26,,Active,1485000,2.5,7.5,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10432,Employee_432,Male,27,Operations,Operations Executive,Hyderabad,2019-07-12,,Active,800000,3.9,7.1,Agency,Master's,N/A,25-35,5-8 LPA
+EMP10433,Employee_433,Female,22,Sales,Account Manager,Delhi,2020-12-11,,Active,800000,3.7,5.6,Company Website,Bachelor's,N/A,<25,5-8 LPA
+EMP10434,Employee_434,Male,44,IT,System Administrator,Delhi,2021-12-27,,Active,1090000,3.6,4.6,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10435,Employee_435,Female,60,IT,Data Analyst,Delhi,2020-02-13,,Active,1600000,1.7,6.5,Naukri,Master's,N/A,56+,12+ LPA
+EMP10436,Employee_436,Female,38,Marketing,Marketing Analyst,Pune,2025-01-21,,Active,1095000,3.1,1.5,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10437,Employee_437,Male,55,IT,System Administrator,Delhi,2024-04-09,2025-07-07,Exited,1585000,2.9,1.2,LinkedIn,Master's,Relocation,46-55,12+ LPA
+EMP10438,Employee_438,Male,50,Operations,Operations Analyst,Hyderabad,2018-10-13,,Active,1170000,2.8,7.8,Employee Referral,Bachelor's,N/A,46-55,8-12 LPA
+EMP10439,Employee_439,Male,30,Marketing,Digital Marketing Specialist,Mumbai,2018-08-10,2024-02-22,Exited,730000,3.1,5.5,Employee Referral,Master's,Other,25-35,5-8 LPA
+EMP10440,Employee_440,Male,34,IT,Software Engineer,Delhi,2024-01-30,,Active,1125000,2.7,2.5,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10441,Employee_441,Male,27,IT,System Administrator,Mumbai,2016-03-12,2022-02-21,Exited,860000,3.5,5.9,Naukri,PhD,Compensation,25-35,8-12 LPA
+EMP10442,Employee_442,Female,27,Customer Service,Support Analyst,Hyderabad,2020-08-17,,Active,560000,3.9,6.0,Agency,MBA,N/A,25-35,5-8 LPA
+EMP10443,Employee_443,Female,41,HR,HR Executive,Delhi,2024-12-05,,Active,1025000,3.8,1.7,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10444,Employee_444,Male,24,HR,Recruiter,Pune,2019-07-15,,Active,615000,3.3,7.0,Agency,PhD,N/A,<25,5-8 LPA
+EMP10445,Employee_445,Male,38,Operations,Operations Manager,Pune,2019-09-06,,Active,805000,4.7,6.9,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10446,Employee_446,Female,33,Customer Service,Support Analyst,Mumbai,2021-11-24,,Active,740000,4.1,4.7,Employee Referral,PhD,N/A,25-35,5-8 LPA
+EMP10447,Employee_447,Female,22,Customer Service,Team Lead,Chennai,2025-01-16,,Active,670000,3.3,1.5,Naukri,MBA,N/A,<25,5-8 LPA
+EMP10448,Employee_448,Male,38,Operations,Operations Analyst,Pune,2024-07-10,,Active,1020000,3.1,2.1,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10449,Employee_449,Female,24,HR,HR Analyst,Pune,2018-06-01,,Active,750000,4.3,8.2,Employee Referral,Bachelor's,N/A,<25,5-8 LPA
+EMP10450,Employee_450,Male,47,IT,Data Analyst,Pune,2016-05-18,,Active,1390000,4.1,10.2,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10451,Employee_451,Male,36,Operations,Operations Executive,Hyderabad,2023-04-16,,Active,930000,2.5,3.3,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10452,Employee_452,Male,57,Sales,Sales Executive,Pune,2023-12-20,,Active,1370000,4.1,2.6,Company Website,MBA,N/A,56+,12+ LPA
+EMP10453,Employee_453,Male,53,HR,HR Manager,Bengaluru,2022-05-09,,Active,1290000,3.3,4.2,Company Website,Bachelor's,N/A,46-55,12+ LPA
+EMP10454,Employee_454,Male,53,Customer Service,Team Lead,Delhi,2020-02-13,,Active,935000,2.8,6.5,Campus,Bachelor's,N/A,46-55,8-12 LPA
+EMP10455,Employee_455,Female,25,IT,Software Engineer,Pune,2022-09-29,2025-12-02,Exited,920000,2.1,3.2,LinkedIn,Bachelor's,Compensation,<25,8-12 LPA
+EMP10456,Employee_456,Female,39,Sales,Account Manager,Chennai,2022-12-28,,Active,1000000,3.2,3.6,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10457,Employee_457,Female,40,IT,System Administrator,Chennai,2018-01-02,,Active,1180000,3.4,8.6,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10458,Employee_458,Male,56,Sales,Sales Executive,Pune,2020-10-14,2025-06-14,Exited,1270000,4.4,4.7,Naukri,PhD,Manager,56+,12+ LPA
+EMP10459,Employee_459,Male,35,IT,Data Analyst,Pune,2017-02-27,,Active,1130000,4.0,9.4,Employee Referral,MBA,N/A,25-35,8-12 LPA
+EMP10460,Employee_460,Female,54,IT,System Administrator,Bengaluru,2025-07-10,,Active,1350000,3.0,1.1,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10461,Employee_461,Male,35,IT,Data Analyst,Pune,2020-05-10,,Active,1035000,3.7,6.2,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10462,Employee_462,Male,55,Marketing,Digital Marketing Specialist,Pune,2017-01-24,,Active,1215000,3.9,9.5,LinkedIn,MBA,N/A,46-55,12+ LPA
+EMP10463,Employee_463,Male,25,Operations,Operations Manager,Delhi,2016-12-07,,Active,750000,3.5,9.6,LinkedIn,Master's,N/A,<25,5-8 LPA
+EMP10464,Employee_464,Female,45,Sales,Sales Manager,Chennai,2018-08-03,,Active,1115000,3.0,8.0,Company Website,PhD,N/A,36-45,8-12 LPA
+EMP10465,Employee_465,Male,50,Customer Service,Support Analyst,Bengaluru,2017-09-05,,Active,965000,3.1,8.9,Company Website,Bachelor's,N/A,46-55,8-12 LPA
+EMP10466,Employee_466,Male,40,HR,HR Manager,Chennai,2017-05-07,,Active,940000,3.7,9.2,Agency,Bachelor's,N/A,36-45,8-12 LPA
+EMP10467,Employee_467,Female,27,Finance,Financial Analyst,Bengaluru,2016-07-10,,Active,840000,3.7,10.1,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10468,Employee_468,Male,54,Operations,Operations Executive,Chennai,2017-05-13,,Active,1340000,3.2,9.2,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10469,Employee_469,Male,40,Finance,Accountant,Pune,2018-04-01,,Active,965000,1.7,8.3,Campus,PhD,N/A,36-45,8-12 LPA
+EMP10470,Employee_470,Male,22,Customer Service,Support Executive,Chennai,2020-10-01,,Active,560000,2.6,5.8,Campus,MBA,N/A,<25,5-8 LPA
+EMP10471,Employee_471,Male,26,IT,Software Engineer,Chennai,2019-06-10,,Active,965000,3.8,7.1,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10472,Employee_472,Female,48,Customer Service,Support Executive,Bengaluru,2021-05-22,,Active,890000,2.0,5.2,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10473,Employee_473,Male,37,IT,Data Analyst,Mumbai,2016-08-14,2024-08-30,Exited,1250000,4.2,8.0,Agency,Bachelor's,Compensation,36-45,12+ LPA
+EMP10474,Employee_474,Male,27,Customer Service,Support Executive,Bengaluru,2019-10-26,2025-03-31,Exited,640000,4.1,5.4,Employee Referral,Master's,Work-Life Balance,25-35,5-8 LPA
+EMP10475,Employee_475,Female,34,Sales,Sales Executive,Bengaluru,2021-12-26,,Active,870000,3.4,4.6,Agency,Bachelor's,N/A,25-35,8-12 LPA
+EMP10476,Employee_476,Female,56,Customer Service,Support Analyst,Bengaluru,2023-12-13,,Active,945000,3.8,2.6,LinkedIn,Bachelor's,N/A,56+,8-12 LPA
+EMP10477,Employee_477,Female,40,IT,Data Analyst,Hyderabad,2018-03-27,,Active,1195000,3.7,8.3,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10478,Employee_478,Male,33,Sales,Sales Executive,Hyderabad,2024-10-25,,Active,895000,3.3,1.8,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10479,Employee_479,Male,37,Customer Service,Support Analyst,Hyderabad,2024-09-21,,Active,675000,2.5,1.9,Employee Referral,Master's,N/A,36-45,5-8 LPA
+EMP10480,Employee_480,Non-Binary,31,Sales,Sales Manager,Bengaluru,2020-01-13,,Active,770000,4.0,6.5,Campus,Master's,N/A,25-35,5-8 LPA
+EMP10481,Employee_481,Female,46,Marketing,Marketing Manager,Mumbai,2018-12-22,,Active,1190000,4.3,7.6,Agency,Bachelor's,N/A,46-55,8-12 LPA
+EMP10482,Employee_482,Male,41,Marketing,Digital Marketing Specialist,Bengaluru,2016-04-13,,Active,845000,2.6,10.3,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10483,Employee_483,Male,52,Sales,Sales Manager,Pune,2021-02-17,2024-02-02,Exited,1270000,2.5,3.0,LinkedIn,MBA,Work-Life Balance,46-55,12+ LPA
+EMP10484,Employee_484,Male,25,Marketing,Marketing Manager,Mumbai,2018-05-20,,Active,715000,3.3,8.2,Campus,PhD,N/A,<25,5-8 LPA
+EMP10485,Employee_485,Female,44,Sales,Sales Manager,Hyderabad,2017-10-29,,Active,1140000,3.0,8.8,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10486,Employee_486,Male,23,Customer Service,Support Analyst,Chennai,2021-08-04,,Active,490000,3.5,5.0,LinkedIn,Master's,N/A,<25,<5 LPA
+EMP10487,Employee_487,Male,43,IT,Software Engineer,Chennai,2016-09-29,,Active,1255000,4.2,9.8,Employee Referral,MBA,N/A,36-45,12+ LPA
+EMP10488,Employee_488,Male,58,Finance,Accountant,Delhi,2018-10-26,,Active,1330000,1.9,7.8,Company Website,MBA,N/A,56+,12+ LPA
+EMP10489,Employee_489,Female,29,Customer Service,Team Lead,Mumbai,2024-10-23,,Active,620000,4.4,1.8,Company Website,PhD,N/A,25-35,5-8 LPA
+EMP10490,Employee_490,Female,28,Customer Service,Support Analyst,Hyderabad,2022-02-09,,Active,650000,3.1,4.5,Employee Referral,Bachelor's,N/A,25-35,5-8 LPA
+EMP10491,Employee_491,Male,35,Sales,Sales Manager,Mumbai,2018-11-17,,Active,950000,3.7,7.7,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10492,Employee_492,Female,24,Marketing,Marketing Manager,Mumbai,2020-04-22,,Active,750000,3.8,6.3,Agency,Bachelor's,N/A,<25,5-8 LPA
+EMP10493,Employee_493,Female,37,Finance,Financial Analyst,Chennai,2024-09-25,,Active,935000,3.9,1.8,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10494,Employee_494,Male,40,IT,System Administrator,Bengaluru,2016-10-19,,Active,1120000,3.4,9.8,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10495,Employee_495,Male,39,Sales,Account Manager,Pune,2025-06-04,2026-04-25,Exited,955000,3.6,0.9,Naukri,MBA,Career Change,36-45,8-12 LPA
+EMP10496,Employee_496,Male,37,HR,HR Analyst,Delhi,2025-01-28,,Active,895000,3.6,1.5,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10497,Employee_497,Female,29,Sales,Account Manager,Hyderabad,2025-12-30,,Active,950000,3.0,0.6,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10498,Employee_498,Female,54,IT,BI Developer,Mumbai,2025-01-02,,Active,1395000,2.3,1.6,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10499,Employee_499,Female,33,Customer Service,Support Analyst,Delhi,2022-02-02,,Active,595000,2.6,4.5,Employee Referral,Master's,N/A,25-35,5-8 LPA
+EMP10500,Employee_500,Female,32,Customer Service,Support Executive,Mumbai,2025-03-24,,Active,730000,3.3,1.4,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10501,Employee_501,Male,26,Marketing,Digital Marketing Specialist,Chennai,2021-10-06,,Active,875000,2.9,4.8,Employee Referral,MBA,N/A,25-35,8-12 LPA
+EMP10502,Employee_502,Female,48,Sales,Sales Executive,Pune,2019-07-16,,Active,1055000,2.9,7.0,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10503,Employee_503,Male,33,Finance,Finance Manager,Chennai,2016-11-03,,Active,1125000,4.6,9.7,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10504,Employee_504,Male,38,Operations,Operations Manager,Delhi,2025-12-20,,Active,945000,4.0,0.6,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10505,Employee_505,Female,27,Marketing,Marketing Analyst,Hyderabad,2025-03-13,,Active,865000,3.2,1.4,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10506,Employee_506,Female,54,IT,Software Engineer,Mumbai,2018-09-03,,Active,1560000,3.8,7.9,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10507,Employee_507,Male,26,Customer Service,Support Analyst,Pune,2024-09-11,,Active,660000,3.1,1.9,Agency,Bachelor's,N/A,25-35,5-8 LPA
+EMP10508,Employee_508,Female,49,Operations,Operations Executive,Chennai,2019-06-05,,Active,1095000,3.5,7.2,Campus,Master's,N/A,46-55,8-12 LPA
+EMP10509,Employee_509,Female,35,Customer Service,Support Analyst,Delhi,2019-06-24,,Active,845000,3.7,7.1,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10510,Employee_510,Male,26,Operations,Operations Manager,Chennai,2023-07-10,,Active,715000,3.1,3.1,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10511,Employee_511,Non-Binary,54,Sales,Account Manager,Mumbai,2020-02-26,,Active,1375000,3.0,6.4,Employee Referral,MBA,N/A,46-55,12+ LPA
+EMP10512,Employee_512,Male,40,HR,Recruiter,Mumbai,2021-10-31,,Active,1080000,4.2,4.7,Agency,Bachelor's,N/A,36-45,8-12 LPA
+EMP10513,Employee_513,Male,43,Customer Service,Team Lead,Hyderabad,2019-04-24,,Active,780000,3.8,7.3,Naukri,MBA,N/A,36-45,5-8 LPA
+EMP10514,Employee_514,Male,26,Operations,Operations Manager,Pune,2022-04-18,,Active,765000,1.9,4.3,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10515,Employee_515,Female,23,IT,System Administrator,Bengaluru,2019-10-10,,Active,850000,3.0,6.8,LinkedIn,MBA,N/A,<25,8-12 LPA
+EMP10516,Employee_516,Female,51,IT,System Administrator,Chennai,2020-11-08,2024-05-27,Exited,1385000,2.9,3.5,Naukri,Bachelor's,Work-Life Balance,46-55,12+ LPA
+EMP10517,Employee_517,Male,60,HR,HR Manager,Mumbai,2020-09-15,,Active,1345000,3.0,5.9,Agency,MBA,N/A,56+,12+ LPA
+EMP10518,Employee_518,Male,25,Operations,Operations Executive,Delhi,2021-08-04,,Active,680000,4.0,5.0,Employee Referral,Master's,N/A,<25,5-8 LPA
+EMP10519,Employee_519,Female,54,Customer Service,Support Analyst,Chennai,2018-03-06,,Active,1215000,3.4,8.4,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10520,Employee_520,Male,34,IT,Software Engineer,Hyderabad,2018-06-15,,Active,945000,2.5,8.1,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10521,Employee_521,Female,41,Sales,Sales Manager,Hyderabad,2021-05-15,,Active,885000,3.2,5.2,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10522,Employee_522,Female,28,HR,Recruiter,Mumbai,2016-07-28,2019-12-30,Exited,585000,3.8,3.4,Employee Referral,PhD,Work-Life Balance,25-35,5-8 LPA
+EMP10523,Employee_523,Male,36,Customer Service,Team Lead,Mumbai,2023-11-03,,Active,850000,3.3,2.7,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10524,Employee_524,Female,44,Operations,Operations Manager,Mumbai,2023-04-10,,Active,945000,3.0,3.3,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10525,Employee_525,Male,35,Operations,Operations Analyst,Bengaluru,2022-10-30,,Active,865000,3.6,3.8,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10526,Employee_526,Non-Binary,44,Sales,Sales Manager,Mumbai,2022-11-12,,Active,1085000,4.5,3.7,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10527,Employee_527,Female,40,HR,HR Executive,Chennai,2018-08-25,,Active,895000,3.7,7.9,Agency,Bachelor's,N/A,36-45,8-12 LPA
+EMP10528,Employee_528,Female,50,Finance,Finance Manager,Chennai,2017-04-16,,Active,1330000,4.2,9.3,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10529,Employee_529,Male,41,IT,Software Engineer,Pune,2022-08-14,,Active,1180000,3.0,4.0,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10530,Employee_530,Female,50,Operations,Operations Executive,Delhi,2024-01-26,,Active,1105000,3.4,2.5,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10531,Employee_531,Male,45,Operations,Operations Manager,Mumbai,2025-10-03,,Active,1055000,3.4,0.8,Campus,PhD,N/A,36-45,8-12 LPA
+EMP10532,Employee_532,Male,39,Customer Service,Support Executive,Chennai,2018-07-11,,Active,870000,3.5,8.1,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10533,Employee_533,Male,31,Customer Service,Support Executive,Chennai,2016-05-16,,Active,575000,3.7,10.2,Agency,Master's,N/A,25-35,5-8 LPA
+EMP10534,Employee_534,Female,29,Sales,Sales Executive,Chennai,2017-01-01,,Active,905000,2.8,9.6,Company Website,Master's,N/A,25-35,8-12 LPA
+EMP10535,Employee_535,Male,47,Operations,Operations Manager,Bengaluru,2024-02-07,,Active,1200000,3.8,2.5,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10536,Employee_536,Female,50,Customer Service,Support Analyst,Delhi,2016-07-02,,Active,875000,2.3,10.1,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10537,Employee_537,Female,31,Operations,Operations Manager,Hyderabad,2025-03-12,,Active,805000,2.5,1.4,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10538,Employee_538,Male,38,Finance,Finance Manager,Chennai,2022-11-24,,Active,1010000,4.8,3.7,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10539,Employee_539,Female,23,Sales,Sales Manager,Mumbai,2019-10-30,,Active,780000,3.1,6.8,Company Website,Bachelor's,N/A,<25,5-8 LPA
+EMP10540,Employee_540,Male,27,IT,System Administrator,Chennai,2023-05-25,,Active,830000,3.9,3.2,Agency,Bachelor's,N/A,25-35,8-12 LPA
+EMP10541,Employee_541,Female,26,Customer Service,Support Executive,Delhi,2023-08-28,,Active,720000,4.5,2.9,LinkedIn,MBA,N/A,25-35,5-8 LPA
+EMP10542,Employee_542,Female,49,Sales,Sales Executive,Hyderabad,2017-06-20,,Active,1040000,1.9,9.1,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10543,Employee_543,Male,26,Finance,Finance Manager,Bengaluru,2025-10-22,,Active,800000,4.1,0.8,Employee Referral,Bachelor's,N/A,25-35,5-8 LPA
+EMP10544,Employee_544,Female,39,Marketing,Marketing Analyst,Pune,2023-10-20,,Active,1025000,3.8,2.8,Naukri,Bachelor's,N/A,36-45,8-12 LPA
+EMP10545,Employee_545,Male,47,Sales,Account Manager,Mumbai,2020-05-21,,Active,1090000,4.5,6.2,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10546,Employee_546,Male,41,HR,HR Manager,Pune,2019-06-27,,Active,915000,2.6,7.1,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10547,Employee_547,Female,48,IT,BI Developer,Bengaluru,2024-02-15,,Active,1340000,4.3,2.5,Company Website,PhD,N/A,46-55,12+ LPA
+EMP10548,Employee_548,Male,33,Marketing,Digital Marketing Specialist,Delhi,2023-01-01,,Active,885000,2.9,3.6,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10549,Employee_549,Male,28,Sales,Sales Manager,Delhi,2023-05-01,,Active,810000,4.1,3.2,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10550,Employee_550,Male,24,Operations,Operations Executive,Bengaluru,2024-05-07,,Active,735000,3.4,2.2,Campus,PhD,N/A,<25,5-8 LPA
+EMP10551,Employee_551,Female,31,Sales,Account Manager,Chennai,2019-01-01,,Active,825000,3.9,7.6,Campus,Master's,N/A,25-35,8-12 LPA
+EMP10552,Employee_552,Male,55,Operations,Operations Executive,Bengaluru,2019-07-29,,Active,1245000,3.4,7.0,Employee Referral,MBA,N/A,46-55,12+ LPA
+EMP10553,Employee_553,Male,46,Sales,Sales Executive,Mumbai,2018-07-04,,Active,1085000,2.2,8.1,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10554,Employee_554,Female,56,Sales,Sales Executive,Hyderabad,2025-05-24,,Active,1235000,1.4,1.2,Employee Referral,PhD,N/A,56+,12+ LPA
+EMP10555,Employee_555,Female,37,Operations,Operations Manager,Pune,2024-06-08,,Active,865000,3.5,2.1,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10556,Employee_556,Male,23,HR,Recruiter,Pune,2024-12-26,,Active,625000,3.2,1.6,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10557,Employee_557,Male,45,IT,System Administrator,Delhi,2016-05-31,,Active,1225000,3.7,10.2,Company Website,Master's,N/A,36-45,12+ LPA
+EMP10558,Employee_558,Male,31,IT,Software Engineer,Chennai,2018-10-25,,Active,1115000,3.2,7.8,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10559,Employee_559,Male,59,Operations,Operations Manager,Delhi,2019-05-03,,Active,1265000,4.7,7.2,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10560,Employee_560,Male,43,Marketing,Marketing Manager,Mumbai,2021-05-31,,Active,1000000,3.5,5.2,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10561,Employee_561,Female,47,Marketing,Marketing Analyst,Bengaluru,2025-03-08,,Active,1135000,3.1,1.4,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10562,Employee_562,Female,60,IT,Data Analyst,Pune,2022-11-16,,Active,1545000,3.6,3.7,LinkedIn,MBA,N/A,56+,12+ LPA
+EMP10563,Employee_563,Female,48,IT,Software Engineer,Mumbai,2024-09-19,,Active,1210000,3.1,1.9,Agency,Master's,N/A,46-55,12+ LPA
+EMP10564,Employee_564,Male,50,IT,BI Developer,Delhi,2016-09-27,,Active,1325000,3.5,9.8,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10565,Employee_565,Female,59,HR,Recruiter,Delhi,2019-04-01,2023-11-22,Exited,1285000,2.6,4.6,LinkedIn,Bachelor's,Manager,56+,12+ LPA
+EMP10566,Employee_566,Male,41,Sales,Sales Executive,Pune,2017-04-04,,Active,1025000,3.4,9.3,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10567,Employee_567,Female,48,HR,Recruiter,Delhi,2016-04-14,,Active,1185000,3.1,10.3,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10568,Employee_568,Female,41,HR,HR Manager,Chennai,2025-12-06,,Active,1005000,2.7,0.6,Employee Referral,PhD,N/A,36-45,8-12 LPA
+EMP10569,Employee_569,Male,40,Customer Service,Support Executive,Delhi,2025-03-07,,Active,935000,4.7,1.4,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10570,Employee_570,Female,41,HR,HR Executive,Hyderabad,2020-09-06,,Active,990000,2.7,5.9,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10571,Employee_571,Male,56,Sales,Sales Executive,Bengaluru,2022-01-18,,Active,1470000,3.4,4.5,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10572,Employee_572,Female,23,Operations,Operations Manager,Delhi,2022-07-26,,Active,595000,2.9,4.0,Naukri,PhD,N/A,<25,5-8 LPA
+EMP10573,Employee_573,Male,51,HR,HR Executive,Hyderabad,2017-03-09,,Active,1105000,3.6,9.4,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10574,Employee_574,Male,55,Marketing,Marketing Analyst,Mumbai,2023-12-09,2025-05-23,Exited,1325000,2.6,1.5,Naukri,Bachelor's,Relocation,46-55,12+ LPA
+EMP10575,Employee_575,Female,43,Operations,Operations Analyst,Delhi,2016-05-19,,Active,1120000,3.9,10.2,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10576,Employee_576,Male,24,Customer Service,Support Analyst,Chennai,2020-02-03,,Active,410000,4.7,6.5,Company Website,Master's,N/A,<25,<5 LPA
+EMP10577,Employee_577,Female,27,IT,System Administrator,Mumbai,2024-10-08,,Active,920000,2.9,1.8,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10578,Employee_578,Male,36,Customer Service,Support Analyst,Delhi,2016-03-27,,Active,695000,4.2,10.3,Employee Referral,PhD,N/A,36-45,5-8 LPA
+EMP10579,Employee_579,Female,48,Sales,Sales Executive,Pune,2020-09-07,,Active,1180000,3.2,5.9,LinkedIn,MBA,N/A,46-55,8-12 LPA
+EMP10580,Employee_580,Female,31,Finance,Finance Manager,Hyderabad,2022-02-08,,Active,915000,4.4,4.5,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10581,Employee_581,Male,30,Sales,Sales Executive,Hyderabad,2022-08-12,,Active,965000,4.8,4.0,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10582,Employee_582,Male,54,Customer Service,Support Analyst,Pune,2016-05-08,,Active,1065000,3.2,10.2,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10583,Employee_583,Male,53,Sales,Sales Executive,Bengaluru,2019-06-23,,Active,1380000,2.4,7.1,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10584,Employee_584,Male,27,Finance,Accountant,Chennai,2020-05-20,,Active,810000,4.0,6.2,Company Website,MBA,N/A,25-35,8-12 LPA
+EMP10585,Employee_585,Male,57,Marketing,Digital Marketing Specialist,Hyderabad,2017-10-31,2026-06-18,Exited,1395000,3.5,8.6,Naukri,MBA,Work-Life Balance,56+,12+ LPA
+EMP10586,Employee_586,Female,23,Finance,Finance Manager,Mumbai,2025-06-11,,Active,790000,3.7,1.1,LinkedIn,Master's,N/A,<25,5-8 LPA
+EMP10587,Employee_587,Female,50,IT,Software Engineer,Chennai,2016-05-28,,Active,1510000,3.2,10.2,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10588,Employee_588,Female,25,IT,System Administrator,Hyderabad,2018-09-11,,Active,770000,2.8,7.9,Naukri,MBA,N/A,<25,5-8 LPA
+EMP10589,Employee_589,Female,22,IT,Software Engineer,Bengaluru,2018-05-01,,Active,745000,4.2,8.2,LinkedIn,Bachelor's,N/A,<25,5-8 LPA
+EMP10590,Employee_590,Female,40,IT,BI Developer,Mumbai,2019-12-27,2021-11-23,Exited,1340000,3.6,1.9,LinkedIn,MBA,Career Change,36-45,12+ LPA
+EMP10591,Employee_591,Female,47,IT,Software Engineer,Chennai,2017-09-19,,Active,1235000,2.5,8.9,Company Website,Master's,N/A,46-55,12+ LPA
+EMP10592,Employee_592,Male,46,Marketing,Marketing Manager,Mumbai,2020-02-01,,Active,1050000,3.8,6.5,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10593,Employee_593,Female,31,IT,BI Developer,Pune,2022-10-29,,Active,935000,3.7,3.8,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10594,Employee_594,Female,36,HR,HR Executive,Delhi,2021-08-06,2026-06-02,Exited,1005000,3.2,4.8,Naukri,PhD,Compensation,36-45,8-12 LPA
+EMP10595,Employee_595,Female,43,Customer Service,Support Analyst,Pune,2025-09-22,,Active,765000,4.5,0.9,Employee Referral,PhD,N/A,36-45,5-8 LPA
+EMP10596,Employee_596,Male,42,Sales,Sales Executive,Chennai,2018-06-02,,Active,1060000,3.0,8.2,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10597,Employee_597,Male,43,Marketing,Marketing Manager,Delhi,2022-05-30,,Active,1035000,3.3,4.2,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10598,Employee_598,Male,57,IT,Data Analyst,Pune,2020-11-23,,Active,1575000,3.9,5.7,Naukri,PhD,N/A,56+,12+ LPA
+EMP10599,Employee_599,Female,55,IT,Software Engineer,Delhi,2024-10-19,,Active,1395000,3.4,1.8,Company Website,Master's,N/A,46-55,12+ LPA
+EMP10600,Employee_600,Male,51,IT,System Administrator,Hyderabad,2016-09-06,2024-12-05,Exited,1410000,2.5,8.2,Campus,MBA,Work-Life Balance,46-55,12+ LPA
+EMP10601,Employee_601,Male,46,IT,Data Analyst,Mumbai,2024-01-04,,Active,1175000,3.5,2.6,LinkedIn,MBA,N/A,46-55,8-12 LPA
+EMP10602,Employee_602,Female,49,Finance,Finance Manager,Delhi,2018-08-05,,Active,1440000,3.1,8.0,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10603,Employee_603,Male,22,IT,Data Analyst,Hyderabad,2018-09-01,,Active,830000,4.0,7.9,Campus,Master's,N/A,<25,8-12 LPA
+EMP10604,Employee_604,Male,25,IT,BI Developer,Bengaluru,2019-08-18,,Active,905000,3.5,7.0,Naukri,MBA,N/A,<25,8-12 LPA
+EMP10605,Employee_605,Male,28,IT,Software Engineer,Pune,2024-06-23,,Active,1105000,3.5,2.1,Employee Referral,MBA,N/A,25-35,8-12 LPA
+EMP10606,Employee_606,Female,30,Sales,Sales Manager,Bengaluru,2023-10-07,2024-08-16,Exited,790000,2.7,0.9,Naukri,Bachelor's,Career Change,25-35,5-8 LPA
+EMP10607,Employee_607,Female,57,IT,BI Developer,Chennai,2018-09-10,,Active,1630000,3.3,7.9,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10608,Employee_608,Male,40,HR,HR Executive,Hyderabad,2018-06-07,,Active,935000,4.0,8.1,Employee Referral,PhD,N/A,36-45,8-12 LPA
+EMP10609,Employee_609,Female,22,Sales,Sales Manager,Bengaluru,2024-01-16,,Active,760000,2.9,2.5,Employee Referral,Bachelor's,N/A,<25,5-8 LPA
+EMP10610,Employee_610,Male,31,Marketing,Digital Marketing Specialist,Bengaluru,2021-10-18,,Active,790000,3.4,4.8,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10611,Employee_611,Female,57,IT,Software Engineer,Hyderabad,2023-04-26,,Active,1360000,2.8,3.3,Naukri,PhD,N/A,56+,12+ LPA
+EMP10612,Employee_612,Female,30,Operations,Operations Manager,Mumbai,2018-05-24,,Active,800000,2.6,8.2,Company Website,PhD,N/A,25-35,5-8 LPA
+EMP10613,Employee_613,Female,53,Marketing,Marketing Analyst,Delhi,2024-09-18,,Active,1295000,3.3,1.9,Employee Referral,Bachelor's,N/A,46-55,12+ LPA
+EMP10614,Employee_614,Male,53,IT,Data Analyst,Chennai,2025-05-28,,Active,1290000,3.5,1.2,LinkedIn,MBA,N/A,46-55,12+ LPA
+EMP10615,Employee_615,Female,27,Operations,Operations Executive,Chennai,2019-08-19,,Active,680000,4.7,6.9,Employee Referral,Master's,N/A,25-35,5-8 LPA
+EMP10616,Employee_616,Female,59,Customer Service,Support Executive,Pune,2017-04-15,,Active,1275000,3.1,9.3,Company Website,Master's,N/A,56+,12+ LPA
+EMP10617,Employee_617,Male,38,IT,Data Analyst,Delhi,2021-06-10,,Active,1190000,3.4,5.1,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10618,Employee_618,Female,31,Finance,Accountant,Pune,2016-03-31,2022-03-02,Exited,875000,2.6,5.9,Employee Referral,PhD,Manager,25-35,8-12 LPA
+EMP10619,Employee_619,Male,48,Operations,Operations Executive,Chennai,2017-06-13,,Active,1035000,3.8,9.1,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10620,Employee_620,Female,56,Operations,Operations Analyst,Delhi,2017-10-22,,Active,1405000,3.7,8.8,Company Website,MBA,N/A,56+,12+ LPA
+EMP10621,Employee_621,Male,42,IT,BI Developer,Bengaluru,2018-01-08,,Active,1080000,4.4,8.6,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10622,Employee_622,Female,46,IT,Software Engineer,Mumbai,2023-08-05,,Active,1275000,4.1,3.0,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10623,Employee_623,Male,49,HR,HR Manager,Bengaluru,2018-05-21,,Active,1005000,3.6,8.2,Naukri,Master's,N/A,46-55,8-12 LPA
+EMP10624,Employee_624,Male,36,Sales,Account Manager,Mumbai,2020-08-13,,Active,1070000,3.1,6.0,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10625,Employee_625,Male,25,Sales,Sales Executive,Hyderabad,2016-07-10,,Active,755000,3.5,10.1,Company Website,Bachelor's,N/A,<25,5-8 LPA
+EMP10626,Employee_626,Male,50,HR,HR Manager,Pune,2021-06-09,,Active,1170000,3.3,5.1,LinkedIn,MBA,N/A,46-55,8-12 LPA
+EMP10627,Employee_627,Male,30,Sales,Sales Manager,Pune,2025-12-02,,Active,1095000,4.0,0.7,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10628,Employee_628,Male,48,Operations,Operations Manager,Hyderabad,2025-01-26,,Active,1035000,3.9,1.5,Agency,MBA,N/A,46-55,8-12 LPA
+EMP10629,Employee_629,Female,47,IT,Software Engineer,Delhi,2021-12-25,2025-08-07,Exited,1455000,3.2,3.6,Company Website,Bachelor's,Other,46-55,12+ LPA
+EMP10630,Employee_630,Male,40,Finance,Financial Analyst,Hyderabad,2016-12-10,,Active,1040000,2.4,9.6,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10631,Employee_631,Male,49,Marketing,Marketing Manager,Chennai,2024-11-25,,Active,1145000,4.3,1.7,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10632,Employee_632,Female,38,Customer Service,Support Executive,Hyderabad,2018-10-05,,Active,1025000,3.8,7.8,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10633,Employee_633,Male,41,Sales,Sales Executive,Mumbai,2022-12-25,,Active,1030000,3.2,3.6,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10634,Employee_634,Female,60,Sales,Sales Manager,Chennai,2016-07-21,,Active,1260000,3.8,10.0,Naukri,Master's,N/A,56+,12+ LPA
+EMP10635,Employee_635,Female,44,IT,BI Developer,Hyderabad,2017-07-26,,Active,1270000,3.4,9.0,Campus,MBA,N/A,36-45,12+ LPA
+EMP10636,Employee_636,Female,53,Sales,Sales Executive,Pune,2016-07-10,2021-03-30,Exited,1240000,4.3,4.7,Naukri,MBA,Other,46-55,12+ LPA
+EMP10637,Employee_637,Female,54,Sales,Sales Executive,Bengaluru,2021-08-14,2025-10-06,Exited,1310000,2.1,4.1,Agency,PhD,Other,46-55,12+ LPA
+EMP10638,Employee_638,Female,26,Finance,Finance Manager,Mumbai,2021-03-28,,Active,810000,3.1,5.3,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10639,Employee_639,Male,55,Finance,Financial Analyst,Mumbai,2025-01-21,,Active,1545000,4.4,1.5,Company Website,PhD,N/A,46-55,12+ LPA
+EMP10640,Employee_640,Male,32,HR,HR Manager,Delhi,2020-09-12,2024-12-23,Exited,880000,3.8,4.3,LinkedIn,MBA,Compensation,25-35,8-12 LPA
+EMP10641,Employee_641,Male,24,IT,System Administrator,Bengaluru,2016-11-06,,Active,790000,4.6,9.7,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10642,Employee_642,Female,54,Finance,Financial Analyst,Mumbai,2023-02-09,2026-05-04,Exited,1335000,2.6,3.2,Company Website,Bachelor's,Career Change,46-55,12+ LPA
+EMP10643,Employee_643,Male,32,IT,BI Developer,Hyderabad,2021-10-04,,Active,960000,4.1,4.8,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10644,Employee_644,Female,37,Finance,Finance Manager,Mumbai,2017-03-18,,Active,1000000,4.1,9.4,Campus,MBA,N/A,36-45,8-12 LPA
+EMP10645,Employee_645,Non-Binary,39,IT,BI Developer,Mumbai,2019-06-14,,Active,1075000,2.3,7.1,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10646,Employee_646,Female,51,Customer Service,Team Lead,Mumbai,2018-05-19,,Active,1210000,3.2,8.2,Company Website,MBA,N/A,46-55,12+ LPA
+EMP10647,Employee_647,Male,31,Sales,Sales Manager,Delhi,2024-12-12,,Active,800000,3.3,1.6,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10648,Employee_648,Male,39,Marketing,Marketing Manager,Mumbai,2017-08-07,,Active,1050000,2.3,9.0,Employee Referral,PhD,N/A,36-45,8-12 LPA
+EMP10649,Employee_649,Female,59,Operations,Operations Executive,Mumbai,2020-05-13,,Active,1255000,3.2,6.2,Company Website,PhD,N/A,56+,12+ LPA
+EMP10650,Employee_650,Female,40,Sales,Sales Manager,Delhi,2023-08-31,,Active,920000,4.0,2.9,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10651,Employee_651,Male,57,IT,System Administrator,Chennai,2020-03-17,,Active,1500000,3.1,6.4,LinkedIn,MBA,N/A,56+,12+ LPA
+EMP10652,Employee_652,Male,34,Sales,Sales Manager,Bengaluru,2025-08-21,,Active,950000,3.6,0.9,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10653,Employee_653,Female,24,Sales,Sales Executive,Chennai,2016-12-25,,Active,785000,3.6,9.6,Employee Referral,Bachelor's,N/A,<25,5-8 LPA
+EMP10654,Employee_654,Female,31,Operations,Operations Executive,Pune,2020-09-19,,Active,545000,3.4,5.9,Employee Referral,Master's,N/A,25-35,5-8 LPA
+EMP10655,Employee_655,Female,59,HR,HR Manager,Delhi,2023-11-06,,Active,1205000,2.9,2.7,Company Website,Master's,N/A,56+,12+ LPA
+EMP10656,Employee_656,Female,22,IT,Software Engineer,Delhi,2021-09-08,2023-06-25,Exited,935000,3.8,1.8,Employee Referral,PhD,Work-Life Balance,<25,8-12 LPA
+EMP10657,Employee_657,Female,48,Finance,Financial Analyst,Mumbai,2020-12-07,2023-10-23,Exited,1135000,2.4,2.9,Naukri,Master's,Relocation,46-55,8-12 LPA
+EMP10658,Employee_658,Male,29,HR,HR Analyst,Mumbai,2021-07-04,,Active,795000,3.4,5.1,Naukri,PhD,N/A,25-35,5-8 LPA
+EMP10659,Employee_659,Male,38,Marketing,Marketing Analyst,Pune,2021-11-25,,Active,855000,4.3,4.7,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10660,Employee_660,Male,30,Sales,Account Manager,Mumbai,2018-04-23,,Active,910000,3.1,8.3,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10661,Employee_661,Male,27,HR,HR Manager,Hyderabad,2020-06-13,2026-03-17,Exited,825000,2.9,5.8,Agency,Master's,Compensation,25-35,8-12 LPA
+EMP10662,Employee_662,Female,46,Customer Service,Support Executive,Mumbai,2023-07-27,,Active,1000000,3.9,3.0,Campus,PhD,N/A,46-55,8-12 LPA
+EMP10663,Employee_663,Female,60,Sales,Sales Executive,Mumbai,2018-06-09,,Active,1475000,3.5,8.1,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10664,Employee_664,Female,49,Finance,Accountant,Hyderabad,2021-06-14,,Active,1375000,3.9,5.1,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10665,Employee_665,Male,54,IT,System Administrator,Pune,2021-06-05,,Active,1320000,3.4,5.2,Campus,Master's,N/A,46-55,12+ LPA
+EMP10666,Employee_666,Female,58,IT,System Administrator,Hyderabad,2018-08-17,,Active,1425000,1.8,8.0,Naukri,Master's,N/A,56+,12+ LPA
+EMP10667,Employee_667,Female,30,Finance,Financial Analyst,Delhi,2020-01-08,,Active,975000,4.2,6.6,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10668,Employee_668,Female,39,IT,BI Developer,Hyderabad,2024-01-19,2025-08-30,Exited,1260000,4.7,1.6,LinkedIn,Bachelor's,Compensation,36-45,12+ LPA
+EMP10669,Employee_669,Female,42,IT,Data Analyst,Bengaluru,2020-01-01,2020-05-02,Exited,1150000,4.2,0.3,Employee Referral,Master's,Other,36-45,8-12 LPA
+EMP10670,Employee_670,Male,23,Finance,Finance Manager,Delhi,2018-01-01,,Active,700000,1.1,8.6,Agency,PhD,N/A,<25,5-8 LPA
+EMP10671,Employee_671,Male,59,IT,Data Analyst,Mumbai,2017-08-28,,Active,1455000,3.7,8.9,Company Website,PhD,N/A,56+,12+ LPA
+EMP10672,Employee_672,Male,57,Customer Service,Support Executive,Delhi,2022-11-09,,Active,985000,3.1,3.7,LinkedIn,Master's,N/A,56+,8-12 LPA
+EMP10673,Employee_673,Male,58,IT,Data Analyst,Pune,2017-09-06,,Active,1385000,2.7,8.9,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10674,Employee_674,Male,36,Sales,Sales Executive,Pune,2023-07-08,,Active,840000,3.5,3.1,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10675,Employee_675,Female,49,HR,HR Manager,Hyderabad,2021-06-27,,Active,1110000,3.3,5.1,Campus,Bachelor's,N/A,46-55,8-12 LPA
+EMP10676,Employee_676,Female,39,Customer Service,Team Lead,Delhi,2020-09-15,,Active,830000,3.7,5.9,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10677,Employee_677,Female,55,IT,BI Developer,Mumbai,2025-10-06,,Active,1485000,3.4,0.8,Employee Referral,Bachelor's,N/A,46-55,12+ LPA
+EMP10678,Employee_678,Female,43,HR,HR Executive,Pune,2017-11-04,,Active,980000,2.7,8.7,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10679,Employee_679,Male,32,Customer Service,Team Lead,Chennai,2019-06-24,,Active,635000,3.0,7.1,Campus,PhD,N/A,25-35,5-8 LPA
+EMP10680,Employee_680,Female,34,Operations,Operations Analyst,Mumbai,2023-02-03,,Active,845000,2.9,3.5,Company Website,MBA,N/A,25-35,8-12 LPA
+EMP10681,Employee_681,Male,25,Operations,Operations Executive,Chennai,2020-05-06,2021-08-10,Exited,540000,2.3,1.3,Naukri,PhD,Relocation,<25,5-8 LPA
+EMP10682,Employee_682,Male,43,Finance,Accountant,Bengaluru,2023-12-14,2025-08-19,Exited,1215000,2.5,1.7,Company Website,Bachelor's,Other,36-45,12+ LPA
+EMP10683,Employee_683,Male,28,IT,Software Engineer,Chennai,2020-05-30,2021-07-26,Exited,1075000,3.3,1.2,LinkedIn,MBA,Compensation,25-35,8-12 LPA
+EMP10684,Employee_684,Male,45,Marketing,Marketing Analyst,Pune,2018-06-15,,Active,1040000,4.3,8.1,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10685,Employee_685,Male,25,Customer Service,Team Lead,Hyderabad,2020-01-02,,Active,520000,3.1,6.6,LinkedIn,Master's,N/A,<25,5-8 LPA
+EMP10686,Employee_686,Male,49,Sales,Sales Executive,Bengaluru,2016-10-04,,Active,1300000,2.9,9.8,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10687,Employee_687,Male,36,Sales,Sales Manager,Delhi,2017-07-05,2022-04-15,Exited,940000,2.6,4.8,Naukri,Bachelor's,Work-Life Balance,36-45,8-12 LPA
+EMP10688,Employee_688,Female,22,Finance,Financial Analyst,Mumbai,2020-06-24,,Active,805000,3.4,6.1,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10689,Employee_689,Male,24,Operations,Operations Analyst,Pune,2021-11-28,,Active,650000,4.2,4.7,Employee Referral,Master's,N/A,<25,5-8 LPA
+EMP10690,Employee_690,Male,35,IT,BI Developer,Bengaluru,2022-08-29,,Active,1225000,4.7,3.9,Employee Referral,PhD,N/A,25-35,12+ LPA
+EMP10691,Employee_691,Male,59,Finance,Finance Manager,Bengaluru,2018-01-30,,Active,1460000,3.6,8.5,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10692,Employee_692,Female,22,HR,HR Executive,Pune,2024-12-06,,Active,700000,3.5,1.6,LinkedIn,PhD,N/A,<25,5-8 LPA
+EMP10693,Employee_693,Male,59,Sales,Sales Executive,Delhi,2025-10-01,,Active,1415000,3.0,0.8,Employee Referral,Master's,N/A,56+,12+ LPA
+EMP10694,Employee_694,Male,59,Finance,Financial Analyst,Delhi,2023-07-04,,Active,1365000,3.2,3.1,Naukri,Bachelor's,N/A,56+,12+ LPA
+EMP10695,Employee_695,Male,42,IT,BI Developer,Hyderabad,2019-12-20,,Active,1170000,3.8,6.6,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10696,Employee_696,Male,50,Sales,Sales Executive,Chennai,2017-02-08,2025-11-20,Exited,1275000,3.2,8.8,Campus,PhD,Other,46-55,12+ LPA
+EMP10697,Employee_697,Male,26,Finance,Financial Analyst,Delhi,2019-09-20,,Active,835000,3.3,6.9,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10698,Employee_698,Male,31,Sales,Sales Executive,Hyderabad,2019-05-17,,Active,755000,3.4,7.2,Campus,PhD,N/A,25-35,5-8 LPA
+EMP10699,Employee_699,Male,49,IT,BI Developer,Chennai,2016-01-22,,Active,1505000,3.0,10.5,Employee Referral,Bachelor's,N/A,46-55,12+ LPA
+EMP10700,Employee_700,Male,42,Sales,Sales Manager,Bengaluru,2017-11-08,2021-09-27,Exited,1150000,3.4,3.9,LinkedIn,Master's,Other,36-45,8-12 LPA
+EMP10701,Employee_701,Male,28,Sales,Sales Manager,Pune,2023-04-12,,Active,810000,2.1,3.3,Company Website,Master's,N/A,25-35,8-12 LPA
+EMP10702,Employee_702,Female,24,IT,System Administrator,Delhi,2021-07-21,2023-05-30,Exited,860000,3.8,1.9,LinkedIn,PhD,Other,<25,8-12 LPA
+EMP10703,Employee_703,Female,41,Finance,Financial Analyst,Hyderabad,2019-05-16,,Active,1110000,4.9,7.2,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10704,Employee_704,Male,40,IT,Software Engineer,Bengaluru,2021-08-17,2026-07-27,Exited,1220000,3.0,4.9,LinkedIn,PhD,Compensation,36-45,12+ LPA
+EMP10705,Employee_705,Male,56,IT,System Administrator,Delhi,2023-07-12,2024-10-02,Exited,1280000,3.6,1.2,Campus,PhD,Work-Life Balance,56+,12+ LPA
+EMP10706,Employee_706,Female,25,Customer Service,Team Lead,Mumbai,2020-12-13,,Active,745000,4.0,5.6,LinkedIn,MBA,N/A,<25,5-8 LPA
+EMP10707,Employee_707,Male,26,Finance,Finance Manager,Bengaluru,2017-06-12,,Active,750000,4.2,9.1,Agency,MBA,N/A,25-35,5-8 LPA
+EMP10708,Employee_708,Male,22,Operations,Operations Executive,Delhi,2021-07-30,,Active,620000,3.2,5.0,Campus,MBA,N/A,<25,5-8 LPA
+EMP10709,Employee_709,Female,25,Finance,Accountant,Bengaluru,2023-04-03,,Active,805000,2.2,3.3,Naukri,PhD,N/A,<25,8-12 LPA
+EMP10710,Employee_710,Male,33,Marketing,Marketing Analyst,Pune,2020-08-03,,Active,1060000,3.6,6.0,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10711,Employee_711,Male,48,Operations,Operations Executive,Pune,2017-10-18,,Active,1080000,3.5,8.8,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10712,Employee_712,Male,44,Sales,Sales Executive,Pune,2016-06-14,,Active,1240000,3.2,10.1,Campus,Bachelor's,N/A,36-45,12+ LPA
+EMP10713,Employee_713,Female,46,Sales,Sales Executive,Chennai,2018-04-28,,Active,1170000,3.3,8.3,Naukri,Master's,N/A,46-55,8-12 LPA
+EMP10714,Employee_714,Male,42,HR,Recruiter,Mumbai,2017-05-10,,Active,925000,3.5,9.2,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10715,Employee_715,Female,45,HR,Recruiter,Pune,2017-08-12,,Active,1075000,3.6,9.0,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10716,Employee_716,Non-Binary,46,Customer Service,Team Lead,Mumbai,2017-03-04,,Active,920000,3.6,9.4,Agency,PhD,N/A,46-55,8-12 LPA
+EMP10717,Employee_717,Male,53,Operations,Operations Manager,Pune,2023-09-22,,Active,1080000,3.3,2.9,Employee Referral,MBA,N/A,46-55,8-12 LPA
+EMP10718,Employee_718,Male,53,Customer Service,Support Analyst,Chennai,2016-06-11,,Active,1090000,3.6,10.1,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10719,Employee_719,Male,26,IT,BI Developer,Bengaluru,2022-08-10,,Active,925000,3.2,4.0,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10720,Employee_720,Male,57,Operations,Operations Executive,Delhi,2025-11-06,2026-07-12,Exited,1300000,3.8,0.7,Campus,Bachelor's,Relocation,56+,12+ LPA
+EMP10721,Employee_721,Male,60,Customer Service,Team Lead,Delhi,2019-06-16,,Active,1200000,3.0,7.1,Employee Referral,MBA,N/A,56+,8-12 LPA
+EMP10722,Employee_722,Female,37,IT,System Administrator,Pune,2016-03-12,,Active,1060000,3.4,10.4,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10723,Employee_723,Female,54,IT,Software Engineer,Delhi,2025-08-17,,Active,1495000,2.3,1.0,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10724,Employee_724,Female,42,Operations,Operations Analyst,Pune,2017-10-16,,Active,925000,3.2,8.8,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10725,Employee_725,Male,30,Sales,Sales Manager,Pune,2025-10-20,2026-06-05,Exited,565000,3.8,0.6,Company Website,PhD,Better Opportunity,25-35,5-8 LPA
+EMP10726,Employee_726,Female,27,Operations,Operations Executive,Hyderabad,2016-09-25,2023-06-19,Exited,720000,2.7,6.7,Campus,Master's,Relocation,25-35,5-8 LPA
+EMP10727,Employee_727,Female,56,IT,System Administrator,Hyderabad,2020-11-11,,Active,1410000,3.2,5.7,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10728,Employee_728,Female,60,Operations,Operations Manager,Hyderabad,2022-09-28,,Active,1340000,1.8,3.8,Naukri,PhD,N/A,56+,12+ LPA
+EMP10729,Employee_729,Male,43,IT,System Administrator,Mumbai,2019-06-22,,Active,1410000,2.5,7.1,Employee Referral,PhD,N/A,36-45,12+ LPA
+EMP10730,Employee_730,Female,26,IT,Software Engineer,Hyderabad,2018-10-12,,Active,1105000,2.7,7.8,Campus,MBA,N/A,25-35,8-12 LPA
+EMP10731,Employee_731,Male,44,IT,Data Analyst,Pune,2023-06-15,2025-06-11,Exited,1230000,3.5,2.0,LinkedIn,Bachelor's,Work-Life Balance,36-45,12+ LPA
+EMP10732,Employee_732,Male,38,Operations,Operations Analyst,Chennai,2018-12-19,,Active,835000,3.6,7.6,Campus,Bachelor's,N/A,36-45,8-12 LPA
+EMP10733,Employee_733,Male,33,Marketing,Marketing Manager,Chennai,2016-01-06,,Active,930000,3.4,10.6,Employee Referral,PhD,N/A,25-35,8-12 LPA
+EMP10734,Employee_734,Female,44,Sales,Sales Executive,Bengaluru,2018-09-08,,Active,1065000,3.2,7.9,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10735,Employee_735,Female,37,HR,HR Manager,Hyderabad,2023-03-02,2023-09-25,Exited,955000,3.2,0.6,Naukri,Master's,Manager,36-45,8-12 LPA
+EMP10736,Employee_736,Male,24,Operations,Operations Executive,Chennai,2017-02-10,,Active,595000,3.9,9.5,Naukri,PhD,N/A,<25,5-8 LPA
+EMP10737,Employee_737,Male,51,HR,HR Analyst,Hyderabad,2025-01-01,,Active,1195000,3.5,1.6,Employee Referral,Master's,N/A,46-55,8-12 LPA
+EMP10738,Employee_738,Male,43,Operations,Operations Manager,Bengaluru,2021-05-07,,Active,925000,3.2,5.2,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10739,Employee_739,Male,30,HR,HR Executive,Chennai,2021-09-04,,Active,900000,4.2,4.9,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10740,Employee_740,Male,50,HR,Recruiter,Pune,2024-06-03,,Active,1100000,4.7,2.2,Campus,MBA,N/A,46-55,8-12 LPA
+EMP10741,Employee_741,Male,58,Sales,Sales Manager,Mumbai,2018-09-12,2024-02-06,Exited,1405000,2.6,5.4,LinkedIn,Bachelor's,Other,56+,12+ LPA
+EMP10742,Employee_742,Female,44,Finance,Financial Analyst,Hyderabad,2025-11-12,,Active,1030000,3.7,0.7,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10743,Employee_743,Male,34,Operations,Operations Manager,Chennai,2017-01-24,,Active,905000,5.0,9.5,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10744,Employee_744,Male,53,Sales,Account Manager,Chennai,2017-12-10,,Active,1170000,3.6,8.6,Employee Referral,PhD,N/A,46-55,8-12 LPA
+EMP10745,Employee_745,Male,44,Finance,Accountant,Bengaluru,2023-03-03,,Active,1170000,3.5,3.4,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10746,Employee_746,Female,38,Customer Service,Team Lead,Pune,2020-01-11,,Active,880000,3.4,6.6,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10747,Employee_747,Female,42,HR,HR Executive,Delhi,2018-01-23,,Active,990000,3.7,8.5,Company Website,PhD,N/A,36-45,8-12 LPA
+EMP10748,Employee_748,Female,23,Sales,Sales Manager,Chennai,2022-01-02,,Active,625000,3.9,4.6,Employee Referral,Master's,N/A,<25,5-8 LPA
+EMP10749,Employee_749,Male,58,Customer Service,Support Analyst,Mumbai,2019-11-12,2022-03-15,Exited,1195000,2.6,2.3,LinkedIn,MBA,Relocation,56+,8-12 LPA
+EMP10750,Employee_750,Female,27,Marketing,Digital Marketing Specialist,Bengaluru,2023-10-03,,Active,695000,3.4,2.8,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10751,Employee_751,Male,39,IT,Data Analyst,Chennai,2019-06-26,,Active,1120000,1.9,7.1,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10752,Employee_752,Female,51,Customer Service,Support Analyst,Chennai,2017-06-09,,Active,1045000,3.3,9.1,Naukri,MBA,N/A,46-55,8-12 LPA
+EMP10753,Employee_753,Female,43,Marketing,Marketing Manager,Bengaluru,2020-01-25,,Active,1180000,2.8,6.5,Company Website,PhD,N/A,36-45,8-12 LPA
+EMP10754,Employee_754,Female,54,Finance,Financial Analyst,Bengaluru,2021-08-22,,Active,1330000,3.6,4.9,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10755,Employee_755,Female,51,IT,System Administrator,Hyderabad,2024-01-29,,Active,1375000,2.3,2.5,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10756,Employee_756,Female,38,Operations,Operations Manager,Chennai,2022-08-28,,Active,975000,3.1,3.9,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10757,Employee_757,Male,53,Marketing,Marketing Analyst,Delhi,2017-07-09,,Active,1245000,4.0,9.1,LinkedIn,Master's,N/A,46-55,12+ LPA
+EMP10758,Employee_758,Female,35,Sales,Sales Manager,Mumbai,2024-01-13,,Active,990000,3.0,2.5,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10759,Employee_759,Male,31,Customer Service,Support Executive,Pune,2025-07-02,,Active,760000,2.2,1.1,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10760,Employee_760,Male,57,Operations,Operations Analyst,Pune,2016-01-19,2021-04-17,Exited,1220000,3.6,5.2,Employee Referral,Bachelor's,Manager,56+,12+ LPA
+EMP10761,Employee_761,Male,55,IT,BI Developer,Delhi,2017-07-28,,Active,1150000,3.0,9.0,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10762,Employee_762,Male,30,Finance,Finance Manager,Bengaluru,2025-10-02,,Active,820000,3.3,0.8,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10763,Employee_763,Male,49,Finance,Accountant,Bengaluru,2023-08-30,,Active,1345000,2.9,2.9,Campus,Bachelor's,N/A,46-55,12+ LPA
+EMP10764,Employee_764,Male,32,Operations,Operations Analyst,Bengaluru,2018-09-30,,Active,795000,4.7,7.8,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10765,Employee_765,Male,35,IT,System Administrator,Chennai,2022-10-02,,Active,1055000,2.4,3.8,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10766,Employee_766,Female,60,Sales,Sales Executive,Bengaluru,2025-05-01,,Active,1490000,5.0,1.2,Agency,MBA,N/A,56+,12+ LPA
+EMP10767,Employee_767,Male,40,Operations,Operations Analyst,Bengaluru,2022-10-02,,Active,935000,3.1,3.8,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10768,Employee_768,Male,36,Operations,Operations Executive,Chennai,2021-04-22,,Active,685000,3.5,5.3,Employee Referral,Bachelor's,N/A,36-45,5-8 LPA
+EMP10769,Employee_769,Female,49,HR,HR Executive,Chennai,2021-04-23,,Active,1000000,3.0,5.3,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10770,Employee_770,Male,45,Operations,Operations Executive,Delhi,2020-06-23,,Active,1070000,3.0,6.1,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10771,Employee_771,Female,29,IT,Software Engineer,Hyderabad,2020-08-25,2025-12-19,Exited,970000,2.9,5.3,LinkedIn,Bachelor's,Manager,25-35,8-12 LPA
+EMP10772,Employee_772,Female,30,Operations,Operations Executive,Chennai,2021-12-09,,Active,895000,3.8,4.6,Agency,MBA,N/A,25-35,8-12 LPA
+EMP10773,Employee_773,Female,54,IT,BI Developer,Mumbai,2017-03-07,,Active,1360000,2.5,9.4,Company Website,Master's,N/A,46-55,12+ LPA
+EMP10774,Employee_774,Female,54,HR,HR Analyst,Bengaluru,2021-09-22,,Active,1200000,3.6,4.9,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10775,Employee_775,Male,40,Operations,Operations Analyst,Hyderabad,2021-03-10,,Active,865000,2.0,5.4,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10776,Employee_776,Female,24,IT,Data Analyst,Pune,2021-04-27,,Active,840000,3.6,5.3,Employee Referral,PhD,N/A,<25,8-12 LPA
+EMP10777,Employee_777,Male,31,Finance,Financial Analyst,Delhi,2019-09-02,,Active,740000,4.0,6.9,Naukri,MBA,N/A,25-35,5-8 LPA
+EMP10778,Employee_778,Male,22,Operations,Operations Analyst,Hyderabad,2022-08-25,,Active,585000,2.6,3.9,Campus,PhD,N/A,<25,5-8 LPA
+EMP10779,Employee_779,Female,50,Operations,Operations Analyst,Chennai,2016-05-24,,Active,1120000,3.8,10.2,Agency,Master's,N/A,46-55,8-12 LPA
+EMP10780,Employee_780,Male,55,Marketing,Marketing Analyst,Bengaluru,2025-04-21,,Active,1260000,3.4,1.3,Employee Referral,Bachelor's,N/A,46-55,12+ LPA
+EMP10781,Employee_781,Female,34,Marketing,Marketing Analyst,Bengaluru,2022-08-07,,Active,1090000,4.4,4.0,Agency,PhD,N/A,25-35,8-12 LPA
+EMP10782,Employee_782,Female,22,Sales,Account Manager,Bengaluru,2018-12-09,2019-08-29,Exited,865000,2.8,0.7,Employee Referral,MBA,Work-Life Balance,<25,8-12 LPA
+EMP10783,Employee_783,Female,55,Finance,Financial Analyst,Hyderabad,2018-12-24,,Active,1275000,5.0,7.6,Employee Referral,MBA,N/A,46-55,12+ LPA
+EMP10784,Employee_784,Female,50,HR,Recruiter,Bengaluru,2022-07-30,2026-01-24,Exited,970000,1.8,3.5,Naukri,PhD,Work-Life Balance,46-55,8-12 LPA
+EMP10785,Employee_785,Male,34,IT,System Administrator,Chennai,2018-03-10,,Active,1055000,3.2,8.4,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10786,Employee_786,Male,50,Customer Service,Support Analyst,Hyderabad,2024-11-09,,Active,1040000,2.3,1.7,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10787,Employee_787,Female,60,Sales,Sales Executive,Bengaluru,2024-10-17,2026-03-11,Exited,1305000,4.6,1.4,LinkedIn,MBA,Other,56+,12+ LPA
+EMP10788,Employee_788,Male,45,HR,HR Executive,Pune,2023-11-13,,Active,990000,3.2,2.7,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10789,Employee_789,Female,47,Sales,Sales Manager,Pune,2019-02-25,2025-08-05,Exited,1290000,3.3,6.4,Naukri,Bachelor's,Better Opportunity,46-55,12+ LPA
+EMP10790,Employee_790,Female,38,Customer Service,Support Analyst,Mumbai,2022-09-11,,Active,765000,3.7,3.9,Naukri,Bachelor's,N/A,36-45,5-8 LPA
+EMP10791,Employee_791,Female,28,IT,BI Developer,Bengaluru,2021-05-10,,Active,1020000,3.4,5.2,Agency,MBA,N/A,25-35,8-12 LPA
+EMP10792,Employee_792,Male,34,Sales,Sales Manager,Bengaluru,2024-01-06,2025-07-30,Exited,830000,3.0,1.6,Naukri,PhD,Career Change,25-35,8-12 LPA
+EMP10793,Employee_793,Male,26,Sales,Sales Manager,Hyderabad,2017-04-07,,Active,765000,2.6,9.3,Naukri,MBA,N/A,25-35,5-8 LPA
+EMP10794,Employee_794,Male,47,Sales,Sales Manager,Hyderabad,2020-11-09,2022-09-26,Exited,1120000,3.5,1.9,LinkedIn,MBA,Compensation,46-55,8-12 LPA
+EMP10795,Employee_795,Male,24,IT,Data Analyst,Bengaluru,2021-08-07,2021-12-05,Exited,825000,3.6,0.3,LinkedIn,MBA,Relocation,<25,8-12 LPA
+EMP10796,Employee_796,Female,28,Operations,Operations Analyst,Mumbai,2018-03-18,,Active,830000,3.9,8.4,Company Website,Master's,N/A,25-35,8-12 LPA
+EMP10797,Employee_797,Male,60,Customer Service,Team Lead,Bengaluru,2016-07-05,,Active,1060000,4.6,10.1,Employee Referral,PhD,N/A,56+,8-12 LPA
+EMP10798,Employee_798,Male,22,Sales,Account Manager,Chennai,2020-10-09,,Active,725000,2.0,5.8,Company Website,Master's,N/A,<25,5-8 LPA
+EMP10799,Employee_799,Male,38,Marketing,Marketing Analyst,Hyderabad,2018-01-01,,Active,935000,3.4,8.6,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10800,Employee_800,Female,46,Customer Service,Team Lead,Bengaluru,2021-04-19,,Active,970000,4.2,5.3,Employee Referral,PhD,N/A,46-55,8-12 LPA
+EMP10801,Employee_801,Female,24,Marketing,Marketing Analyst,Hyderabad,2019-04-28,,Active,685000,3.3,7.3,Naukri,Bachelor's,N/A,<25,5-8 LPA
+EMP10802,Employee_802,Male,36,IT,System Administrator,Bengaluru,2019-11-12,,Active,1180000,1.9,6.7,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10803,Employee_803,Male,50,Sales,Sales Manager,Delhi,2017-03-04,,Active,1120000,2.6,9.4,LinkedIn,MBA,N/A,46-55,8-12 LPA
+EMP10804,Employee_804,Male,53,Sales,Sales Manager,Hyderabad,2023-12-15,2026-05-31,Exited,1360000,3.6,2.5,LinkedIn,PhD,Work-Life Balance,46-55,12+ LPA
+EMP10805,Employee_805,Male,47,HR,Recruiter,Mumbai,2019-07-31,,Active,1095000,3.6,7.0,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10806,Employee_806,Female,37,Operations,Operations Analyst,Delhi,2022-04-03,,Active,770000,3.8,4.3,LinkedIn,Bachelor's,N/A,36-45,5-8 LPA
+EMP10807,Employee_807,Female,46,Customer Service,Support Executive,Chennai,2019-05-02,,Active,995000,2.9,7.2,Agency,PhD,N/A,46-55,8-12 LPA
+EMP10808,Employee_808,Male,49,Customer Service,Team Lead,Bengaluru,2019-08-03,,Active,970000,3.6,7.0,Naukri,Bachelor's,N/A,46-55,8-12 LPA
+EMP10809,Employee_809,Male,30,Sales,Sales Executive,Chennai,2018-02-09,,Active,690000,2.8,8.5,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP10810,Employee_810,Non-Binary,22,IT,System Administrator,Hyderabad,2018-01-27,,Active,880000,3.6,8.5,LinkedIn,PhD,N/A,<25,8-12 LPA
+EMP10811,Employee_811,Male,50,Customer Service,Support Analyst,Delhi,2016-05-15,2023-02-11,Exited,1095000,3.4,6.7,Employee Referral,Bachelor's,Relocation,46-55,8-12 LPA
+EMP10812,Employee_812,Female,43,Operations,Operations Manager,Chennai,2018-03-02,,Active,1115000,2.9,8.4,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10813,Employee_813,Male,37,IT,BI Developer,Mumbai,2016-06-19,,Active,1085000,4.4,10.1,Campus,PhD,N/A,36-45,8-12 LPA
+EMP10814,Employee_814,Male,28,Customer Service,Support Executive,Hyderabad,2022-01-15,2025-08-28,Exited,620000,2.3,3.6,Agency,Master's,Career Change,25-35,5-8 LPA
+EMP10815,Employee_815,Male,35,Operations,Operations Manager,Delhi,2022-02-26,2024-11-07,Exited,860000,3.3,2.7,LinkedIn,PhD,Career Change,25-35,8-12 LPA
+EMP10816,Employee_816,Male,50,Sales,Sales Executive,Chennai,2025-09-28,,Active,1340000,2.9,0.8,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10817,Employee_817,Female,40,Sales,Sales Executive,Delhi,2020-04-29,,Active,950000,4.6,6.3,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10818,Employee_818,Male,40,HR,HR Analyst,Delhi,2018-08-19,,Active,930000,3.8,7.9,Employee Referral,Bachelor's,N/A,36-45,8-12 LPA
+EMP10819,Employee_819,Male,23,IT,Data Analyst,Chennai,2023-03-15,,Active,795000,3.0,3.4,Naukri,MBA,N/A,<25,5-8 LPA
+EMP10820,Employee_820,Male,36,Finance,Financial Analyst,Pune,2025-10-15,,Active,870000,3.2,0.8,Naukri,PhD,N/A,36-45,8-12 LPA
+EMP10821,Employee_821,Male,24,Operations,Operations Manager,Bengaluru,2018-05-25,,Active,680000,4.6,8.2,LinkedIn,PhD,N/A,<25,5-8 LPA
+EMP10822,Employee_822,Male,32,IT,System Administrator,Hyderabad,2022-08-15,2026-01-16,Exited,1175000,2.8,3.4,Company Website,Bachelor's,Other,25-35,8-12 LPA
+EMP10823,Employee_823,Male,51,Finance,Accountant,Hyderabad,2016-04-12,,Active,1255000,2.3,10.3,Naukri,Bachelor's,N/A,46-55,12+ LPA
+EMP10824,Employee_824,Female,39,HR,HR Executive,Hyderabad,2018-09-28,,Active,875000,3.6,7.8,LinkedIn,Bachelor's,N/A,36-45,8-12 LPA
+EMP10825,Employee_825,Male,23,Sales,Account Manager,Delhi,2019-02-22,,Active,735000,3.6,7.4,Company Website,Bachelor's,N/A,<25,5-8 LPA
+EMP10826,Employee_826,Male,53,Customer Service,Team Lead,Chennai,2025-04-07,,Active,1110000,3.8,1.3,Employee Referral,PhD,N/A,46-55,8-12 LPA
+EMP10827,Employee_827,Female,29,HR,HR Manager,Bengaluru,2024-04-11,,Active,760000,3.8,2.3,Campus,Bachelor's,N/A,25-35,5-8 LPA
+EMP10828,Employee_828,Male,43,HR,HR Executive,Mumbai,2023-10-16,,Active,1155000,4.6,2.8,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10829,Employee_829,Female,27,Operations,Operations Executive,Hyderabad,2020-01-21,,Active,635000,2.3,6.5,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10830,Employee_830,Male,33,Sales,Sales Manager,Chennai,2025-01-14,,Active,870000,2.6,1.5,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10831,Employee_831,Female,57,Finance,Accountant,Bengaluru,2017-10-19,,Active,1405000,3.8,8.8,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10832,Employee_832,Female,36,Sales,Sales Manager,Bengaluru,2024-01-08,,Active,985000,2.7,2.6,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10833,Employee_833,Female,49,IT,Data Analyst,Pune,2019-05-05,,Active,1340000,2.5,7.2,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10834,Employee_834,Non-Binary,39,IT,BI Developer,Chennai,2023-08-12,,Active,1040000,4.6,3.0,Agency,PhD,N/A,36-45,8-12 LPA
+EMP10835,Employee_835,Male,23,Sales,Sales Executive,Hyderabad,2017-02-26,,Active,930000,2.3,9.4,LinkedIn,Master's,N/A,<25,8-12 LPA
+EMP10836,Employee_836,Female,34,HR,HR Executive,Delhi,2023-03-04,2026-03-13,Exited,845000,3.2,3.0,Employee Referral,PhD,Manager,25-35,8-12 LPA
+EMP10837,Employee_837,Male,36,Customer Service,Support Analyst,Bengaluru,2016-06-19,,Active,760000,3.4,10.1,Naukri,Bachelor's,N/A,36-45,5-8 LPA
+EMP10838,Employee_838,Male,41,HR,HR Executive,Bengaluru,2025-06-15,,Active,1050000,4.3,1.1,Agency,PhD,N/A,36-45,8-12 LPA
+EMP10839,Employee_839,Male,50,Sales,Sales Executive,Mumbai,2022-01-29,2025-01-20,Exited,1145000,2.2,3.0,Naukri,Bachelor's,Other,46-55,8-12 LPA
+EMP10840,Employee_840,Male,50,Marketing,Marketing Analyst,Pune,2023-06-03,2025-09-03,Exited,1190000,3.7,2.3,Agency,Bachelor's,Compensation,46-55,8-12 LPA
+EMP10841,Employee_841,Male,24,IT,Software Engineer,Bengaluru,2017-03-28,,Active,825000,2.8,9.3,Agency,MBA,N/A,<25,8-12 LPA
+EMP10842,Employee_842,Female,40,Marketing,Marketing Analyst,Bengaluru,2022-07-25,,Active,1040000,3.8,4.0,Naukri,MBA,N/A,36-45,8-12 LPA
+EMP10843,Employee_843,Male,24,IT,System Administrator,Delhi,2021-05-29,,Active,860000,2.8,5.2,Campus,PhD,N/A,<25,8-12 LPA
+EMP10844,Employee_844,Female,35,Customer Service,Support Executive,Delhi,2020-07-15,,Active,760000,4.4,6.0,Agency,Bachelor's,N/A,25-35,5-8 LPA
+EMP10845,Employee_845,Female,25,IT,Software Engineer,Mumbai,2022-12-16,,Active,810000,2.8,3.6,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10846,Employee_846,Male,32,HR,HR Manager,Chennai,2023-04-21,,Active,755000,1.8,3.3,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10847,Employee_847,Male,52,IT,Data Analyst,Mumbai,2024-06-02,,Active,1265000,2.9,2.2,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10848,Employee_848,Male,53,Customer Service,Team Lead,Mumbai,2024-08-30,,Active,995000,3.2,1.9,Naukri,PhD,N/A,46-55,8-12 LPA
+EMP10849,Employee_849,Male,48,Sales,Account Manager,Delhi,2024-02-14,,Active,935000,4.1,2.5,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10850,Employee_850,Male,51,Sales,Account Manager,Chennai,2021-08-15,,Active,1195000,2.6,5.0,LinkedIn,Master's,N/A,46-55,8-12 LPA
+EMP10851,Employee_851,Male,23,IT,System Administrator,Delhi,2016-10-14,,Active,820000,2.6,9.8,Naukri,Master's,N/A,<25,8-12 LPA
+EMP10852,Employee_852,Male,30,Operations,Operations Manager,Pune,2020-06-29,,Active,780000,4.0,6.1,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10853,Employee_853,Female,49,IT,Software Engineer,Hyderabad,2024-10-22,,Active,1340000,2.5,1.8,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10854,Employee_854,Female,52,Customer Service,Support Analyst,Hyderabad,2019-12-18,,Active,1155000,3.3,6.6,Campus,Bachelor's,N/A,46-55,8-12 LPA
+EMP10855,Employee_855,Male,55,IT,Software Engineer,Pune,2021-03-28,,Active,1675000,3.3,5.3,Company Website,Master's,N/A,46-55,12+ LPA
+EMP10856,Employee_856,Female,36,IT,System Administrator,Hyderabad,2017-08-30,2025-04-11,Exited,1205000,3.5,7.6,LinkedIn,MBA,Better Opportunity,36-45,12+ LPA
+EMP10857,Employee_857,Male,46,IT,BI Developer,Chennai,2017-04-01,,Active,1240000,2.9,9.3,Company Website,MBA,N/A,46-55,12+ LPA
+EMP10858,Employee_858,Male,57,Sales,Account Manager,Delhi,2020-10-30,,Active,1285000,2.8,5.7,Company Website,MBA,N/A,56+,12+ LPA
+EMP10859,Employee_859,Female,29,Sales,Sales Executive,Hyderabad,2019-05-10,2024-02-03,Exited,905000,3.6,4.7,Agency,Master's,Relocation,25-35,8-12 LPA
+EMP10860,Employee_860,Male,30,IT,Data Analyst,Chennai,2019-05-20,,Active,840000,2.8,7.2,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10861,Employee_861,Male,58,Operations,Operations Manager,Delhi,2018-10-26,,Active,1240000,2.5,7.8,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10862,Employee_862,Non-Binary,60,Sales,Account Manager,Chennai,2023-04-25,2025-03-31,Exited,1365000,4.2,1.9,Agency,Master's,Compensation,56+,12+ LPA
+EMP10863,Employee_863,Female,53,Sales,Account Manager,Pune,2022-08-20,,Active,1310000,3.7,3.9,Agency,MBA,N/A,46-55,12+ LPA
+EMP10864,Employee_864,Female,38,Sales,Account Manager,Mumbai,2017-03-22,,Active,1045000,4.5,9.4,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10865,Employee_865,Female,56,HR,HR Analyst,Pune,2018-04-14,,Active,1195000,3.9,8.3,Company Website,PhD,N/A,56+,8-12 LPA
+EMP10866,Employee_866,Female,58,Sales,Account Manager,Hyderabad,2024-09-12,,Active,1310000,2.6,1.9,LinkedIn,PhD,N/A,56+,12+ LPA
+EMP10867,Employee_867,Male,40,IT,Data Analyst,Delhi,2018-03-21,,Active,1215000,3.5,8.4,Employee Referral,Master's,N/A,36-45,12+ LPA
+EMP10868,Employee_868,Male,50,IT,System Administrator,Chennai,2019-11-25,,Active,1280000,2.7,6.7,LinkedIn,Master's,N/A,46-55,12+ LPA
+EMP10869,Employee_869,Male,28,Operations,Operations Manager,Hyderabad,2024-09-02,,Active,835000,2.3,1.9,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10870,Employee_870,Male,49,Customer Service,Team Lead,Hyderabad,2019-11-12,,Active,1040000,3.1,6.7,Campus,PhD,N/A,46-55,8-12 LPA
+EMP10871,Employee_871,Male,30,HR,Recruiter,Mumbai,2018-08-16,,Active,810000,4.0,8.0,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10872,Employee_872,Male,49,Finance,Financial Analyst,Hyderabad,2020-01-15,,Active,1270000,3.6,6.5,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10873,Employee_873,Female,27,Marketing,Marketing Analyst,Mumbai,2023-12-06,,Active,730000,2.5,2.7,Agency,Master's,N/A,25-35,5-8 LPA
+EMP10874,Employee_874,Female,50,HR,HR Executive,Delhi,2018-03-19,,Active,1100000,3.1,8.4,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10875,Employee_875,Female,38,IT,BI Developer,Delhi,2018-09-05,,Active,1100000,3.3,7.9,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10876,Employee_876,Male,37,IT,Software Engineer,Chennai,2022-09-29,,Active,1165000,2.3,3.8,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10877,Employee_877,Female,44,Marketing,Digital Marketing Specialist,Mumbai,2017-12-26,,Active,1095000,3.9,8.6,Employee Referral,PhD,N/A,36-45,8-12 LPA
+EMP10878,Employee_878,Male,52,Marketing,Marketing Analyst,Pune,2025-10-15,,Active,1180000,3.3,0.8,LinkedIn,Bachelor's,N/A,46-55,8-12 LPA
+EMP10879,Employee_879,Female,24,IT,System Administrator,Delhi,2022-11-06,2023-02-11,Exited,955000,2.5,0.3,Naukri,MBA,Better Opportunity,<25,8-12 LPA
+EMP10880,Employee_880,Male,42,Finance,Financial Analyst,Chennai,2025-03-16,,Active,1095000,2.5,1.4,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10881,Employee_881,Female,47,Finance,Accountant,Pune,2025-11-14,,Active,1140000,4.1,0.7,Naukri,PhD,N/A,46-55,8-12 LPA
+EMP10882,Employee_882,Male,57,Marketing,Marketing Manager,Delhi,2019-05-01,,Active,1335000,3.2,7.2,Naukri,Master's,N/A,56+,12+ LPA
+EMP10883,Employee_883,Female,58,IT,Data Analyst,Delhi,2022-01-06,2024-11-21,Exited,1405000,4.2,2.9,Agency,PhD,Relocation,56+,12+ LPA
+EMP10884,Employee_884,Female,43,IT,BI Developer,Chennai,2021-03-18,,Active,1075000,4.4,5.4,LinkedIn,MBA,N/A,36-45,8-12 LPA
+EMP10885,Employee_885,Male,33,Operations,Operations Manager,Chennai,2023-09-07,,Active,820000,4.1,2.9,Company Website,PhD,N/A,25-35,8-12 LPA
+EMP10886,Employee_886,Male,34,IT,System Administrator,Bengaluru,2018-02-17,,Active,1005000,3.1,8.4,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10887,Employee_887,Non-Binary,32,Marketing,Digital Marketing Specialist,Hyderabad,2018-08-30,,Active,835000,1.8,7.9,Employee Referral,Master's,N/A,25-35,8-12 LPA
+EMP10888,Employee_888,Male,37,Finance,Accountant,Hyderabad,2023-09-11,,Active,935000,3.6,2.9,Agency,Bachelor's,N/A,36-45,8-12 LPA
+EMP10889,Employee_889,Female,29,IT,Software Engineer,Pune,2024-05-07,,Active,1085000,4.8,2.2,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10890,Employee_890,Female,23,Finance,Accountant,Hyderabad,2020-03-18,2023-11-09,Exited,710000,3.4,3.6,LinkedIn,Master's,Compensation,<25,5-8 LPA
+EMP10891,Employee_891,Male,51,Operations,Operations Analyst,Pune,2019-11-17,,Active,1105000,2.1,6.7,Company Website,PhD,N/A,46-55,8-12 LPA
+EMP10892,Employee_892,Male,51,Operations,Operations Analyst,Delhi,2025-04-10,,Active,1175000,3.0,1.3,Company Website,MBA,N/A,46-55,8-12 LPA
+EMP10893,Employee_893,Male,33,Operations,Operations Executive,Bengaluru,2021-10-24,2026-07-28,Exited,695000,3.3,4.8,Company Website,MBA,Work-Life Balance,25-35,5-8 LPA
+EMP10894,Employee_894,Female,31,HR,HR Analyst,Bengaluru,2017-08-21,,Active,680000,2.7,8.9,Naukri,Bachelor's,N/A,25-35,5-8 LPA
+EMP10895,Employee_895,Male,32,Marketing,Digital Marketing Specialist,Delhi,2025-02-23,,Active,895000,1.7,1.4,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10896,Employee_896,Male,36,IT,BI Developer,Chennai,2016-08-12,,Active,1060000,3.3,10.0,Agency,MBA,N/A,36-45,8-12 LPA
+EMP10897,Employee_897,Male,37,Finance,Finance Manager,Mumbai,2020-04-02,,Active,940000,2.9,6.3,Agency,Master's,N/A,36-45,8-12 LPA
+EMP10898,Employee_898,Female,38,Customer Service,Team Lead,Mumbai,2021-11-30,,Active,840000,4.6,4.7,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10899,Employee_899,Female,47,IT,System Administrator,Hyderabad,2022-04-17,,Active,1225000,3.5,4.3,Campus,PhD,N/A,46-55,12+ LPA
+EMP10900,Employee_900,Non-Binary,23,IT,Software Engineer,Chennai,2025-01-17,,Active,845000,3.7,1.5,Naukri,Bachelor's,N/A,<25,8-12 LPA
+EMP10901,Employee_901,Male,33,IT,BI Developer,Pune,2018-04-20,,Active,965000,3.3,8.3,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10902,Employee_902,Female,47,IT,Data Analyst,Bengaluru,2020-12-19,,Active,1325000,3.5,5.6,LinkedIn,Bachelor's,N/A,46-55,12+ LPA
+EMP10903,Employee_903,Female,44,IT,BI Developer,Hyderabad,2017-12-14,,Active,1365000,2.3,8.6,Naukri,PhD,N/A,36-45,12+ LPA
+EMP10904,Employee_904,Female,39,Sales,Account Manager,Delhi,2019-01-11,,Active,840000,2.7,7.6,Employee Referral,Master's,N/A,36-45,8-12 LPA
+EMP10905,Employee_905,Female,53,HR,Recruiter,Chennai,2016-05-04,,Active,1220000,4.1,10.2,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10906,Employee_906,Male,59,Customer Service,Support Executive,Bengaluru,2024-11-20,,Active,1245000,3.5,1.7,Naukri,MBA,N/A,56+,12+ LPA
+EMP10907,Employee_907,Male,24,Operations,Operations Executive,Pune,2018-12-28,,Active,620000,3.1,7.6,Company Website,MBA,N/A,<25,5-8 LPA
+EMP10908,Employee_908,Female,59,HR,HR Analyst,Pune,2024-07-15,2025-07-10,Exited,1215000,3.7,1.0,Company Website,PhD,Relocation,56+,12+ LPA
+EMP10909,Employee_909,Male,24,Finance,Accountant,Mumbai,2024-01-10,,Active,825000,3.7,2.6,Employee Referral,Bachelor's,N/A,<25,8-12 LPA
+EMP10910,Employee_910,Female,51,HR,HR Manager,Hyderabad,2019-07-03,,Active,1260000,4.7,7.1,Agency,Bachelor's,N/A,46-55,12+ LPA
+EMP10911,Employee_911,Female,22,Sales,Sales Manager,Delhi,2020-10-16,,Active,780000,3.5,5.8,LinkedIn,Master's,N/A,<25,5-8 LPA
+EMP10912,Employee_912,Male,51,Finance,Finance Manager,Bengaluru,2016-01-30,,Active,1305000,2.7,10.5,Employee Referral,Master's,N/A,46-55,12+ LPA
+EMP10913,Employee_913,Female,53,Marketing,Digital Marketing Specialist,Pune,2022-05-17,,Active,1245000,3.3,4.2,Company Website,Bachelor's,N/A,46-55,12+ LPA
+EMP10914,Employee_914,Male,49,HR,HR Analyst,Bengaluru,2024-02-19,,Active,1055000,3.8,2.4,Employee Referral,PhD,N/A,46-55,8-12 LPA
+EMP10915,Employee_915,Male,42,Sales,Sales Executive,Delhi,2021-07-10,,Active,1140000,4.0,5.1,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10916,Employee_916,Female,34,HR,HR Executive,Bengaluru,2025-01-21,,Active,940000,2.4,1.5,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10917,Employee_917,Female,48,Finance,Finance Manager,Hyderabad,2025-02-01,2025-12-29,Exited,1115000,3.6,0.9,Campus,Bachelor's,Compensation,46-55,8-12 LPA
+EMP10918,Employee_918,Male,57,Customer Service,Team Lead,Mumbai,2022-08-12,,Active,1165000,2.8,4.0,Employee Referral,PhD,N/A,56+,8-12 LPA
+EMP10919,Employee_919,Male,28,Operations,Operations Analyst,Bengaluru,2017-05-09,,Active,785000,3.0,9.2,Campus,MBA,N/A,25-35,5-8 LPA
+EMP10920,Employee_920,Female,43,IT,BI Developer,Chennai,2024-06-23,,Active,1305000,3.9,2.1,Employee Referral,Bachelor's,N/A,36-45,12+ LPA
+EMP10921,Employee_921,Female,31,Operations,Operations Executive,Mumbai,2020-05-28,,Active,775000,3.9,6.2,Company Website,Master's,N/A,25-35,5-8 LPA
+EMP10922,Employee_922,Female,60,Sales,Sales Manager,Delhi,2017-12-18,,Active,1305000,3.0,8.6,Campus,PhD,N/A,56+,12+ LPA
+EMP10923,Employee_923,Male,36,Customer Service,Support Executive,Mumbai,2025-10-01,,Active,705000,3.3,0.8,Company Website,PhD,N/A,36-45,5-8 LPA
+EMP10924,Employee_924,Male,36,Operations,Operations Executive,Bengaluru,2018-10-13,,Active,780000,3.1,7.8,Naukri,PhD,N/A,36-45,5-8 LPA
+EMP10925,Employee_925,Male,25,HR,HR Manager,Bengaluru,2025-10-05,,Active,700000,5.0,0.8,Employee Referral,MBA,N/A,<25,5-8 LPA
+EMP10926,Employee_926,Female,53,IT,Data Analyst,Chennai,2019-08-30,,Active,1385000,3.6,6.9,Campus,MBA,N/A,46-55,12+ LPA
+EMP10927,Employee_927,Male,44,Finance,Accountant,Pune,2017-08-28,,Active,1340000,2.9,8.9,Naukri,Master's,N/A,36-45,12+ LPA
+EMP10928,Employee_928,Male,27,Sales,Sales Executive,Chennai,2017-01-09,,Active,870000,4.3,9.6,Naukri,Master's,N/A,25-35,8-12 LPA
+EMP10929,Employee_929,Female,45,Marketing,Marketing Manager,Bengaluru,2023-05-10,,Active,1180000,4.3,3.2,LinkedIn,PhD,N/A,36-45,8-12 LPA
+EMP10930,Employee_930,Male,41,Finance,Accountant,Mumbai,2021-05-14,2022-08-17,Exited,1135000,4.6,1.3,Agency,Master's,Career Change,36-45,8-12 LPA
+EMP10931,Employee_931,Non-Binary,58,IT,System Administrator,Chennai,2018-11-14,,Active,1465000,4.8,7.7,LinkedIn,Bachelor's,N/A,56+,12+ LPA
+EMP10932,Employee_932,Female,41,Operations,Operations Executive,Chennai,2019-09-19,,Active,935000,3.9,6.9,Employee Referral,MBA,N/A,36-45,8-12 LPA
+EMP10933,Employee_933,Female,33,Customer Service,Support Executive,Pune,2025-05-19,,Active,680000,3.2,1.2,Naukri,PhD,N/A,25-35,5-8 LPA
+EMP10934,Employee_934,Male,54,Sales,Sales Executive,Bengaluru,2016-04-25,,Active,1295000,3.3,10.3,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10935,Employee_935,Male,49,IT,Software Engineer,Bengaluru,2021-09-26,2022-09-17,Exited,1370000,3.2,1.0,Company Website,Bachelor's,Better Opportunity,46-55,12+ LPA
+EMP10936,Employee_936,Female,29,Finance,Financial Analyst,Delhi,2020-12-06,,Active,875000,3.1,5.6,LinkedIn,Bachelor's,N/A,25-35,8-12 LPA
+EMP10937,Employee_937,Female,22,IT,Software Engineer,Pune,2021-11-16,,Active,825000,4.2,4.7,Employee Referral,Bachelor's,N/A,<25,8-12 LPA
+EMP10938,Employee_938,Female,58,Customer Service,Team Lead,Delhi,2020-01-22,,Active,1095000,3.4,6.5,Company Website,Bachelor's,N/A,56+,8-12 LPA
+EMP10939,Employee_939,Male,43,IT,Data Analyst,Delhi,2020-03-26,,Active,1105000,4.0,6.3,Campus,PhD,N/A,36-45,8-12 LPA
+EMP10940,Employee_940,Female,27,Sales,Sales Manager,Delhi,2020-06-08,,Active,905000,3.8,6.1,LinkedIn,MBA,N/A,25-35,8-12 LPA
+EMP10941,Employee_941,Female,42,Finance,Finance Manager,Hyderabad,2022-09-18,,Active,1310000,2.7,3.9,Campus,MBA,N/A,36-45,12+ LPA
+EMP10942,Employee_942,Female,53,Sales,Account Manager,Delhi,2024-12-29,,Active,1365000,2.3,1.6,Company Website,Bachelor's,N/A,46-55,12+ LPA
+EMP10943,Employee_943,Female,56,Marketing,Digital Marketing Specialist,Chennai,2017-11-15,,Active,1180000,2.6,8.7,Campus,Master's,N/A,56+,8-12 LPA
+EMP10944,Employee_944,Female,36,Operations,Operations Analyst,Mumbai,2024-01-29,,Active,945000,3.1,2.5,Employee Referral,PhD,N/A,36-45,8-12 LPA
+EMP10945,Employee_945,Female,26,IT,Software Engineer,Chennai,2022-12-25,2023-11-24,Exited,1015000,3.5,0.9,Employee Referral,MBA,Compensation,25-35,8-12 LPA
+EMP10946,Employee_946,Male,27,IT,BI Developer,Chennai,2020-01-11,,Active,905000,3.0,6.6,Agency,Bachelor's,N/A,25-35,8-12 LPA
+EMP10947,Employee_947,Male,46,IT,System Administrator,Bengaluru,2024-01-20,,Active,1325000,3.9,2.5,Campus,Master's,N/A,46-55,12+ LPA
+EMP10948,Employee_948,Male,50,Customer Service,Support Analyst,Hyderabad,2020-05-18,,Active,965000,3.1,6.2,Naukri,Master's,N/A,46-55,8-12 LPA
+EMP10949,Employee_949,Male,28,Operations,Operations Analyst,Delhi,2022-04-24,,Active,865000,3.6,4.3,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10950,Employee_950,Male,34,Sales,Account Manager,Bengaluru,2023-12-01,,Active,950000,3.5,2.7,Naukri,PhD,N/A,25-35,8-12 LPA
+EMP10951,Employee_951,Male,59,Sales,Sales Manager,Pune,2021-12-08,,Active,1285000,4.5,4.6,Naukri,MBA,N/A,56+,12+ LPA
+EMP10952,Employee_952,Male,39,Marketing,Marketing Analyst,Pune,2018-03-20,,Active,1045000,2.8,8.4,Naukri,Master's,N/A,36-45,8-12 LPA
+EMP10953,Employee_953,Male,23,IT,BI Developer,Bengaluru,2018-09-04,2021-01-10,Exited,965000,4.8,2.4,Naukri,MBA,Work-Life Balance,<25,8-12 LPA
+EMP10954,Employee_954,Female,29,Customer Service,Support Executive,Mumbai,2021-10-02,,Active,645000,3.0,4.8,Campus,MBA,N/A,25-35,5-8 LPA
+EMP10955,Employee_955,Female,32,HR,Recruiter,Bengaluru,2024-05-24,,Active,875000,2.5,2.2,LinkedIn,Master's,N/A,25-35,8-12 LPA
+EMP10956,Employee_956,Male,54,HR,HR Manager,Bengaluru,2019-09-16,,Active,1220000,3.3,6.9,Company Website,Bachelor's,N/A,46-55,12+ LPA
+EMP10957,Employee_957,Female,59,Sales,Sales Manager,Hyderabad,2018-02-22,,Active,1265000,5.0,8.4,LinkedIn,Master's,N/A,56+,12+ LPA
+EMP10958,Employee_958,Male,48,IT,Data Analyst,Pune,2016-08-28,,Active,1305000,4.0,9.9,Naukri,Master's,N/A,46-55,12+ LPA
+EMP10959,Employee_959,Male,41,IT,BI Developer,Pune,2020-11-13,,Active,1240000,3.8,5.7,LinkedIn,PhD,N/A,36-45,12+ LPA
+EMP10960,Employee_960,Male,33,Operations,Operations Analyst,Delhi,2020-04-02,,Active,805000,3.9,6.3,Naukri,MBA,N/A,25-35,8-12 LPA
+EMP10961,Employee_961,Male,52,IT,Data Analyst,Chennai,2017-04-27,2020-02-12,Exited,1460000,2.9,2.8,Company Website,Bachelor's,Other,46-55,12+ LPA
+EMP10962,Employee_962,Female,48,Sales,Sales Manager,Bengaluru,2018-10-09,,Active,1135000,3.6,7.8,Campus,MBA,N/A,46-55,8-12 LPA
+EMP10963,Employee_963,Female,53,Finance,Financial Analyst,Bengaluru,2016-07-05,,Active,1280000,3.4,10.1,LinkedIn,Master's,N/A,46-55,12+ LPA
+EMP10964,Employee_964,Male,31,HR,Recruiter,Mumbai,2021-02-24,,Active,885000,4.6,5.4,Naukri,Bachelor's,N/A,25-35,8-12 LPA
+EMP10965,Employee_965,Male,24,Finance,Finance Manager,Pune,2023-05-27,,Active,805000,3.3,3.2,Employee Referral,Bachelor's,N/A,<25,8-12 LPA
+EMP10966,Employee_966,Male,48,HR,HR Manager,Mumbai,2022-04-28,,Active,1080000,3.2,4.3,Campus,Bachelor's,N/A,46-55,8-12 LPA
+EMP10967,Employee_967,Male,56,Marketing,Marketing Manager,Hyderabad,2018-08-10,,Active,1385000,2.6,8.0,Company Website,Bachelor's,N/A,56+,12+ LPA
+EMP10968,Employee_968,Male,52,Finance,Finance Manager,Delhi,2019-10-19,,Active,1230000,3.5,6.8,Employee Referral,PhD,N/A,46-55,12+ LPA
+EMP10969,Employee_969,Male,36,Sales,Sales Manager,Mumbai,2017-05-05,,Active,885000,3.6,9.2,Company Website,Bachelor's,N/A,36-45,8-12 LPA
+EMP10970,Employee_970,Female,37,Sales,Sales Executive,Pune,2017-03-06,,Active,715000,2.6,9.4,Campus,Master's,N/A,36-45,5-8 LPA
+EMP10971,Employee_971,Female,34,Marketing,Digital Marketing Specialist,Hyderabad,2016-08-26,,Active,845000,3.7,9.9,LinkedIn,PhD,N/A,25-35,8-12 LPA
+EMP10972,Employee_972,Male,56,Customer Service,Support Executive,Bengaluru,2022-06-09,,Active,1230000,3.6,4.1,Naukri,Master's,N/A,56+,12+ LPA
+EMP10973,Employee_973,Female,32,Operations,Operations Analyst,Hyderabad,2022-06-03,,Active,615000,4.1,4.2,Agency,Master's,N/A,25-35,5-8 LPA
+EMP10974,Employee_974,Male,42,IT,Data Analyst,Chennai,2016-03-16,,Active,1125000,4.2,10.4,Company Website,MBA,N/A,36-45,8-12 LPA
+EMP10975,Employee_975,Male,32,IT,Software Engineer,Mumbai,2019-09-18,,Active,1070000,3.5,6.9,Employee Referral,Bachelor's,N/A,25-35,8-12 LPA
+EMP10976,Employee_976,Male,51,Finance,Financial Analyst,Pune,2021-04-07,,Active,1070000,2.7,5.3,Employee Referral,Bachelor's,N/A,46-55,8-12 LPA
+EMP10977,Employee_977,Female,56,Sales,Sales Manager,Mumbai,2024-05-04,,Active,1265000,2.9,2.2,Naukri,Master's,N/A,56+,12+ LPA
+EMP10978,Employee_978,Female,43,IT,System Administrator,Bengaluru,2020-11-16,,Active,1330000,4.5,5.7,Employee Referral,Bachelor's,N/A,36-45,12+ LPA
+EMP10979,Employee_979,Female,59,Sales,Account Manager,Bengaluru,2023-05-13,,Active,1550000,3.5,3.2,Company Website,PhD,N/A,56+,12+ LPA
+EMP10980,Employee_980,Male,52,Sales,Account Manager,Pune,2025-09-15,,Active,1265000,4.5,0.9,Naukri,MBA,N/A,46-55,12+ LPA
+EMP10981,Employee_981,Female,35,Finance,Financial Analyst,Chennai,2018-04-06,,Active,900000,3.7,8.3,Company Website,Bachelor's,N/A,25-35,8-12 LPA
+EMP10982,Employee_982,Male,45,Operations,Operations Executive,Delhi,2022-05-19,,Active,950000,3.9,4.2,Campus,Bachelor's,N/A,36-45,8-12 LPA
+EMP10983,Employee_983,Female,53,IT,BI Developer,Hyderabad,2017-08-13,,Active,1420000,4.0,9.0,LinkedIn,PhD,N/A,46-55,12+ LPA
+EMP10984,Employee_984,Male,57,IT,Software Engineer,Hyderabad,2021-10-20,,Active,1505000,2.6,4.8,Naukri,MBA,N/A,56+,12+ LPA
+EMP10985,Employee_985,Male,53,Operations,Operations Executive,Bengaluru,2025-02-16,,Active,1345000,3.6,1.5,Naukri,PhD,N/A,46-55,12+ LPA
+EMP10986,Employee_986,Female,36,Sales,Sales Executive,Mumbai,2023-07-13,,Active,1040000,2.6,3.0,Company Website,Master's,N/A,36-45,8-12 LPA
+EMP10987,Employee_987,Female,56,Marketing,Marketing Manager,Mumbai,2021-03-17,,Active,1300000,3.2,5.4,LinkedIn,Master's,N/A,56+,12+ LPA
+EMP10988,Employee_988,Male,24,HR,HR Analyst,Chennai,2021-03-25,,Active,655000,3.8,5.3,Employee Referral,Bachelor's,N/A,<25,5-8 LPA
+EMP10989,Employee_989,Female,37,Finance,Financial Analyst,Delhi,2017-07-28,2018-03-23,Exited,1290000,2.7,0.7,Campus,MBA,Relocation,36-45,12+ LPA
+EMP10990,Employee_990,Male,26,Operations,Operations Manager,Mumbai,2024-05-05,,Active,750000,3.8,2.2,Naukri,Master's,N/A,25-35,5-8 LPA
+EMP10991,Employee_991,Female,42,Operations,Operations Manager,Hyderabad,2018-06-10,,Active,920000,2.4,8.1,Agency,PhD,N/A,36-45,8-12 LPA
+EMP10992,Employee_992,Female,31,Marketing,Digital Marketing Specialist,Mumbai,2021-08-21,,Active,820000,4.1,4.9,Agency,Master's,N/A,25-35,8-12 LPA
+EMP10993,Employee_993,Female,40,Finance,Finance Manager,Delhi,2016-05-20,,Active,995000,3.0,10.2,LinkedIn,Master's,N/A,36-45,8-12 LPA
+EMP10994,Employee_994,Female,46,Sales,Sales Manager,Hyderabad,2020-11-24,,Active,915000,2.7,5.7,LinkedIn,PhD,N/A,46-55,8-12 LPA
+EMP10995,Employee_995,Male,25,HR,HR Executive,Mumbai,2025-12-05,,Active,730000,2.5,0.7,Agency,Bachelor's,N/A,<25,5-8 LPA
+EMP10996,Employee_996,Male,50,IT,Software Engineer,Hyderabad,2016-01-17,,Active,1515000,3.0,10.5,Agency,MBA,N/A,46-55,12+ LPA
+EMP10997,Employee_997,Female,40,Customer Service,Team Lead,Bengaluru,2018-12-22,,Active,675000,2.2,7.6,LinkedIn,Bachelor's,N/A,36-45,5-8 LPA
+EMP10998,Employee_998,Male,23,IT,Data Analyst,Bengaluru,2016-09-09,,Active,875000,3.0,9.9,LinkedIn,PhD,N/A,<25,8-12 LPA
+EMP10999,Employee_999,Male,31,Customer Service,Support Analyst,Chennai,2017-04-09,,Active,600000,4.1,9.3,LinkedIn,Master's,N/A,25-35,5-8 LPA
+EMP11000,Employee_1000,Male,46,Sales,Sales Executive,Bengaluru,2017-01-10,,Active,1180000,3.3,9.6,Agency,MBA,N/A,46-55,8-12 LPA
